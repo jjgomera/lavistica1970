@@ -61,6 +61,8 @@ http://127.0.0.1:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccf
 http://127.0.0.1:6878/ace/getstream?id=01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 720
 http://127.0.0.1:6878/ace/getstream?id=fce88ddb0aca4a0869ecd23bdf0bddc288d95260
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,20 de marzo - Gran Premio de Baréin 
+http://127.0.0.1:6878/ace/getstream?id=e62fe6487f48578e91225976e3c3d45535e9f976
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES HD
 http://127.0.0.1:6878/ace/getstream?id=3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,LIGA DE CAMPEONES 2
@@ -183,5 +185,31 @@ http://127.0.0.1:6878/ace/getstream?id=3c81c395fc9385c650e0fba8c286935c594f7e1a
 http://127.0.0.1:6878/ace/getstream?id=52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça HD
 http://127.0.0.1:6878/ace/getstream?id=65c141632af256d70da66c767ba74360042b4396
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,27 de marzo - Gran Premio de Arabia Saudita
+http://127.0.0.1:6878/ace/getstream?id=043a3f5a9bb06a734b603800a9eb73387397fd3b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,10 de abril - Gran Premio de Australia
+http://127.0.0.1:6878/ace/getstream?id=970dfdcb936199eb9dbc20c04154cc88c78eafc5
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,24 de abril - Gran Premio de Emilia-Romaña
+http://127.0.0.1:6878/ace/getstream?id=5f16d332452f840f9f6d91216f20ef3bbf131f5b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,8 de mayo - Gran Premio de Miami
+http://127.0.0.1:6878/ace/getstream?id=813462be068da608de999da57009d0dadb563232
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,22 de mayo - Gran Premio de España
+http://127.0.0.1:6878/ace/getstream?id=62d6ef1b217cfcf35c420e155c96790094424254
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,29 de mayo - Gran Premio de Mónaco
+http://127.0.0.1:6878/ace/getstream?id=e5ec725b3f46707f2d15e2bcd5dc68cde87a5a3b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,12 de junio - Gran Premio de Azerbaiyán
+http://127.0.0.1:6878/ace/getstream?id=1f25d920888782a1aa0dd58d5f761398d2885c71
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,19 de junio - Gran Premio de Canadá
+http://127.0.0.1:6878/ace/getstream?id=85dc8ce0c7c17971ea795bc602b3ee529312d142
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,3 de julio - Gran Premio de Gran Bretaña
+http://127.0.0.1:6878/ace/getstream?id=47793ca10cfc4ac5295088d803ea2e01f5eac786
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,10 de julio - Gran Premio de Austria
+http://127.0.0.1:6878/ace/getstream?id=f991fe2215971049b9e429088d248f542a2adb09
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,24 de julio - Gran Premio de Francia
+http://127.0.0.1:6878/ace/getstream?id=dbab90bb2428cc8e7a9c323a9ed042cb6e16dcc5
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,31 de julio - Gran Premio de Hungría
+http://127.0.0.1:6878/ace/getstream?id=f005cc4d1c021080e5e834f06b91f25fa09a06ed
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,11 de septiembre - Gran Premio de Italia
+http://127.0.0.1:6878/ace/getstream?id=6275377aa46b2c017655814dfc88bdd7f4bab484
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,ID prueba
 http://127.0.0.1:6878/ace/getstream?id=7ced139f9d35c515c431ccb7e339441d5548a8af
