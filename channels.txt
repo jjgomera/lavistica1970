@@ -63,7 +63,7 @@ http://127.0.0.1:6878/ace/getstream?id=d475208e72b5a343080afa0724c7b7c42264b9a0
 http://127.0.0.1:6878/ace/getstream?id=01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 720
 http://127.0.0.1:6878/ace/getstream?id=fce88ddb0aca4a0869ecd23bdf0bddc288d95260
-#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,20 de marzo - Gran Premio de Baréin 
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,F1- 20 de marzo - Gran Premio de Baréin 
 http://127.0.0.1:6878/ace/getstream?id=e62fe6487f48578e91225976e3c3d45535e9f976
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES HD
 http://127.0.0.1:6878/ace/getstream?id=3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
@@ -187,31 +187,29 @@ http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 http://127.0.0.1:6878/ace/getstream?id=9a8c5485a38e9399e81b3eed23e588946946039f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA Uruguay
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,27 de marzo - Gran Premio de Arabia Saudita
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1- 27 de marzo - Gran Premio de Arabia Saudita
 http://127.0.0.1:6878/ace/getstream?id=043a3f5a9bb06a734b603800a9eb73387397fd3b
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,10 de abril - Gran Premio de Australia
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1- 10 de abril - Gran Premio de Australia
 http://127.0.0.1:6878/ace/getstream?id=970dfdcb936199eb9dbc20c04154cc88c78eafc5
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,24 de abril - Gran Premio de Emilia-Romaña
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1- 24 de abril - Gran Premio de Emilia-Romaña
 http://127.0.0.1:6878/ace/getstream?id=5f16d332452f840f9f6d91216f20ef3bbf131f5b
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,8 de mayo - Gran Premio de Miami
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1- 8 de mayo - Gran Premio de Miami
 http://127.0.0.1:6878/ace/getstream?id=813462be068da608de999da57009d0dadb563232
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,22 de mayo - Gran Premio de España
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1- 22 de mayo - Gran Premio de España
 http://127.0.0.1:6878/ace/getstream?id=62d6ef1b217cfcf35c420e155c96790094424254
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,29 de mayo - Gran Premio de Mónaco
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1- 29 de mayo - Gran Premio de Mónaco
 http://127.0.0.1:6878/ace/getstream?id=e5ec725b3f46707f2d15e2bcd5dc68cde87a5a3b
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,12 de junio - Gran Premio de Azerbaiyán
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1- 12 de junio - Gran Premio de Azerbaiyán
 http://127.0.0.1:6878/ace/getstream?id=1f25d920888782a1aa0dd58d5f761398d2885c71
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,19 de junio - Gran Premio de Canadá
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1- 19 de junio - Gran Premio de Canadá
 http://127.0.0.1:6878/ace/getstream?id=85dc8ce0c7c17971ea795bc602b3ee529312d142
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,3 de julio - Gran Premio de Gran Bretaña
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1- 3 de julio - Gran Premio de Gran Bretaña
 http://127.0.0.1:6878/ace/getstream?id=47793ca10cfc4ac5295088d803ea2e01f5eac786
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,10 de julio - Gran Premio de Austria
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1- 10 de julio - Gran Premio de Austria
 http://127.0.0.1:6878/ace/getstream?id=f991fe2215971049b9e429088d248f542a2adb09
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,24 de julio - Gran Premio de Francia
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1- 24 de julio - Gran Premio de Francia
 http://127.0.0.1:6878/ace/getstream?id=dbab90bb2428cc8e7a9c323a9ed042cb6e16dcc5
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,31 de julio - Gran Premio de Hungría
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1- 31 de julio - Gran Premio de Hungría
 http://127.0.0.1:6878/ace/getstream?id=f005cc4d1c021080e5e834f06b91f25fa09a06ed
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,11 de septiembre - Gran Premio de Italia
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1- 11 de septiembre - Gran Premio de Italia
 http://127.0.0.1:6878/ace/getstream?id=6275377aa46b2c017655814dfc88bdd7f4bab484
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,ID prueba
-http://127.0.0.1:6878/ace/getstream?id=7ced139f9d35c515c431ccb7e339441d5548a8af
