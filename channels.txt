@@ -41,8 +41,6 @@ http://127.0.0.1:6878/ace/getstream?id=a0465ef421f30d0c68ff706654147762ec7b6c03
 http://127.0.0.1:6878/ace/getstream?id=dfe2be8e254ceb5b2bd990b9d9877ebcc01e51da
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LA LIGA
 http://127.0.0.1:6878/ace/getstream?id=87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,LIGA  M_HD
-http://127.0.0.1:6878/ace/getstream?id=72874bb385a8bed54f43ef45912637219ca5ab81
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 1080 MultiAudio
@@ -117,6 +115,8 @@ http://127.0.0.1:6878/ace/getstream?id=91dce080463a5c6ee931fc5489a75ab54a5cb071
 http://127.0.0.1:6878/ace/getstream?id=87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES
 http://127.0.0.1:6878/ace/getstream?id=d580d53613be09c7a5388d808509f6c97ec07df2
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS M_HD
+http://127.0.0.1:6878/ace/getstream?id=72874bb385a8bed54f43ef45912637219ca5ab81
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 720
@@ -179,8 +179,8 @@ http://127.0.0.1:6878/ace/getstream?id=f005cc4d1c021080e5e834f06b91f25fa09a06ed
 http://127.0.0.1:6878/ace/getstream?id=6275377aa46b2c017655814dfc88bdd7f4bab484
 #EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/ja41fau.png" ,F-1-Carrera: 23 de octubre - Gran Premio de Estados Unidos
 http://127.0.0.1:6878/ace/getstream?id=4fc072a5ddc7a7222b3c89f02d0f542030fde6fc
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/ja41fau.png" ,F-1 Carrera POLE: 30 de octubre - Gran Premio de Mexico
-http://127.0.0.1:6878/ace/getstream?id=39e0986c32c3c46a16883d8e198e42694affa6b5
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/ja41fau.png" ,F-1 Carrera: 30 de octubre - Gran Premio de México
+http://127.0.0.1:6878/ace/getstream?id=4eee4c3cafaead8842463a1919980183ca96bdcb
 #EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,MotoGP.Race.Malasia.2022.1080p.Spa
 http://127.0.0.1:6878/ace/getstream?id=44d1653348e793c6ec1c890d66355b37f854203f
 #EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,Moto2.Race.Malasia.2022.1080p.Spa
@@ -227,3 +227,5 @@ http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 http://127.0.0.1:6878/ace/getstream?id=9a8c5485a38e9399e81b3eed23e588946946039f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA Uruguay
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Eleven Sport 1 4k
+http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
