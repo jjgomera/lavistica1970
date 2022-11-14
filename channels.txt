@@ -143,6 +143,8 @@ http://127.0.0.1:6878/ace/getstream?id=6275377aa46b2c017655814dfc88bdd7f4bab484
 http://127.0.0.1:6878/ace/getstream?id=4fc072a5ddc7a7222b3c89f02d0f542030fde6fc
 #EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/ja41fau.png" ,F-1 Carrera: 30 de octubre - Gran Premio de México
 http://127.0.0.1:6878/ace/getstream?id=4eee4c3cafaead8842463a1919980183ca96bdcb
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/ja41fau.png" ,F-1 Carrera:  -SPRINT - 12 de noviembre - Gran Premio de Brasil
+http://127.0.0.1:6878/ace/getstream?id=d55c9cbd4b607d348344582283dabc3a81123bd7
 #EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/ja41fau.png" ,F-1 Carrera: 13 de noviembre - Gran Premio de Brasil
 http://127.0.0.1:6878/ace/getstream?id=05d7236f532da45ba56ee8dcefe2b25075496d2d
 #EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,MotoGP.Race.Malasia.2022.1080p.Spa
