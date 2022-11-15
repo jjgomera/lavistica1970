@@ -107,41 +107,41 @@ http://127.0.0.1:6878/ace/getstream?id=b12bd6f32bbd53a2bbf182a30549fbdf747235cd
 http://127.0.0.1:6878/ace/getstream?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080
 http://127.0.0.1:6878/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 20 de marzo - Gran Premio de Bharéin 
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 20 de marzo - Gran Premio de Bharéin 
 http://127.0.0.1:6878/ace/getstream?id=e62fe6487f48578e91225976e3c3d45535e9f976
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 27 de marzo - Gran Premio de Arabia Saudita
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 27 de marzo - Gran Premio de Arabia Saudita
 http://127.0.0.1:6878/ace/getstream?id=043a3f5a9bb06a734b603800a9eb73387397fd3b
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 10 de abril - Gran Premio de Australia
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 10 de abril - Gran Premio de Australia
 http://127.0.0.1:6878/ace/getstream?id=970dfdcb936199eb9dbc20c04154cc88c78eafc5
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 24 de abril - Gran Premio de Emilia-Romaña
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 24 de abril - Gran Premio de Emilia-Romaña
 http://127.0.0.1:6878/ace/getstream?id=5f16d332452f840f9f6d91216f20ef3bbf131f5b
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 8 de mayo - Gran Premio de Miami
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 8 de mayo - Gran Premio de Miami
 http://127.0.0.1:6878/ace/getstream?id=813462be068da608de999da57009d0dadb563232
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 22 de mayo - Gran Premio de España
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 22 de mayo - Gran Premio de España
 http://127.0.0.1:6878/ace/getstream?id=62d6ef1b217cfcf35c420e155c96790094424254
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 29 de mayo - Gran Premio de Mónaco
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 29 de mayo - Gran Premio de Mónaco
 http://127.0.0.1:6878/ace/getstream?id=e5ec725b3f46707f2d15e2bcd5dc68cde87a5a3b
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 12 de junio - Gran Premio de Azerbaiyán
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 12 de junio - Gran Premio de Azerbaiyán
 http://127.0.0.1:6878/ace/getstream?id=1f25d920888782a1aa0dd58d5f761398d2885c71
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 19 de junio - Gran Premio de Canadá
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 19 de junio - Gran Premio de Canadá
 http://127.0.0.1:6878/ace/getstream?id=85dc8ce0c7c17971ea795bc602b3ee529312d142
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 3 de julio - Gran Premio de Gran Bretaña
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 3 de julio - Gran Premio de Gran Bretaña
 http://127.0.0.1:6878/ace/getstream?id=47793ca10cfc4ac5295088d803ea2e01f5eac786
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 10 de julio - Gran Premio de Austria
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 10 de julio - Gran Premio de Austria
 http://127.0.0.1:6878/ace/getstream?id=f991fe2215971049b9e429088d248f542a2adb09
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 24 de julio - Gran Premio de Francia
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 24 de julio - Gran Premio de Francia
 http://127.0.0.1:6878/ace/getstream?id=dbab90bb2428cc8e7a9c323a9ed042cb6e16dcc5
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 31 de julio - Gran Premio de Hungría
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 31 de julio - Gran Premio de Hungría
 http://127.0.0.1:6878/ace/getstream?id=f005cc4d1c021080e5e834f06b91f25fa09a06ed
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 11 de septiembre - Gran Premio de Italia
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 11 de septiembre - Gran Premio de Italia
 http://127.0.0.1:6878/ace/getstream?id=6275377aa46b2c017655814dfc88bdd7f4bab484
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1-Carrera: 23 de octubre - Gran Premio de Estados Unidos
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1-Carrera: 23 de octubre - Gran Premio de Estados Unidos
 http://127.0.0.1:6878/ace/getstream?id=4fc072a5ddc7a7222b3c89f02d0f542030fde6fc
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1 Carrera: 30 de octubre - Gran Premio de México
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1 Carrera: 30 de octubre - Gran Premio de México
 http://127.0.0.1:6878/ace/getstream?id=4eee4c3cafaead8842463a1919980183ca96bdcb
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1 Carrera:  -SPRINT - 12 de noviembre - Gran Premio de Brasil
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1 Carrera:  -SPRINT - 12 de noviembre - Gran Premio de Brasil
 http://127.0.0.1:6878/ace/getstream?id=d55c9cbd4b607d348344582283dabc3a81123bd7
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="" ,F-1 Carrera: 13 de noviembre - Gran Premio de Brasil
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://i.imgur.com/wlvjt2j.jpeg" ,F-1 Carrera: 13 de noviembre - Gran Premio de Brasil
 http://127.0.0.1:6878/ace/getstream?id=05d7236f532da45ba56ee8dcefe2b25075496d2d
 #EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,MotoGP.Race.Malasia.2022.1080p.Spa
 http://127.0.0.1:6878/ace/getstream?id=44d1653348e793c6ec1c890d66355b37f854203f
