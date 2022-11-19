@@ -41,6 +41,16 @@ http://127.0.0.1:6878/ace/getstream?id=5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 http://127.0.0.1:6878/ace/getstream?id=d8512e64f34a117afb656f5c66cf8d88023c9570
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,LIGA SMARTBANK
 http://127.0.0.1:6878/ace/getstream?id=3b50977af3acb17ecd8e463a94888dfbaea028d2
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,LIGA SMARTBANK _M_HD
+http://127.0.0.1:6878/ace/getstream?id=08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,Smartbank 1080 MultiAudio
+http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,SmartBanck 720
+http://127.0.0.1:6878/ace/getstream?id=ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,Smartbank 2 1080 
+http://127.0.0.1:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,Smartbank 2 720
+http://127.0.0.1:6878/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES HD
 http://127.0.0.1:6878/ace/getstream?id=3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,LIGA DE CAMPEONES 2
@@ -75,8 +85,6 @@ http://127.0.0.1:6878/ace/getstream?id=91dce080463a5c6ee931fc5489a75ab54a5cb071
 http://127.0.0.1:6878/ace/getstream?id=87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES
 http://127.0.0.1:6878/ace/getstream?id=d580d53613be09c7a5388d808509f6c97ec07df2
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,Deportes _M_HD
-http://127.0.0.1:6878/ace/getstream?id=08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 720
@@ -155,6 +163,8 @@ http://127.0.0.1:6878/ace/getstream?id=27b181c4721ffaf2823c9806c8763e4af411297b
 http://127.0.0.1:6878/ace/getstream?id=904b8ef770c6b8bd05773908bb1fd481740a531a
 #EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,Moto3.Race.Valencia.2022.1080p.Spa
 http://127.0.0.1:6878/ace/getstream?id=b11739f0ae061f76adfe750eb8b423b940ed722b
+#EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="GOL MUNDIAL" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 720 low
+http://127.0.0.1:6878/ace/getstream?id=16150dafbbd4515a8b539a8e21e0f083f86416da
 #EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="GOL MUNDIAL" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 1080
 http://127.0.0.1:6878/ace/getstream?id=3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
 #EXTINF:-1 group-title="GOL MUNDIAL" tvg-id="GOL MUNDIAL" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" ,Gol Mundial 720
