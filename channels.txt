@@ -243,6 +243,12 @@ http://127.0.0.1:6878/ace/getstream?id=B9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 http://127.0.0.1:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ELEVEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sport 1 4k
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="Otro contenido" tvg-id="NAT GEO HD" tvg-logo="https://i.imgur.com/cLo6MSG.png" ,NATIONAL GEOGRAPHIC HD
+http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
+#EXTINF:-1 group-title="Otro contenido" tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" ,CANAL HISTORIA
+http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ELLAS" tvg-logo="https://i.imgur.com/OJaEosP.png" ,Canal #Ellas
+http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
 #EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1 UHD
 http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1 1080
