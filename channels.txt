@@ -189,13 +189,13 @@ http://127.0.0.1:6878/ace/getstream?id=904b8ef770c6b8bd05773908bb1fd481740a531a
 http://127.0.0.1:6878/ace/getstream?id=b11739f0ae061f76adfe750eb8b423b940ed722b
 #EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,4k pruebas
 http://127.0.0.1:6878/ace/getstream?id=440e15375a76b0245ee07873dae1681f8c6d83cb
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,M+ Supercopa 1080 Multi
+#EXTINF:-1 group-title="Otro contenido" tvg-id="M+ SUPERCOPA" tvg-logo="https://cope-cdnmed.agilecontent.com/resources/png/5/6/1673422944065.png" ,M+ Supercopa 1080 Multi
 http://127.0.0.1:6878/ace/getstream?id=8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,M+ Supercopa 1080 Multi
+#EXTINF:-1 group-title="Otro contenido" tvg-id="M+ SUPERCOPA" tvg-logo="https://cope-cdnmed.agilecontent.com/resources/png/5/6/1673422944065.png" ,M+ Supercopa 1080 Multi
 http://127.0.0.1:6878/ace/getstream?id=c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,M+ Supercopa 1080
+#EXTINF:-1 group-title="Otro contenido" tvg-id="M+ SUPERCOPA" tvg-logo="https://cope-cdnmed.agilecontent.com/resources/png/5/6/1673422944065.png" ,M+ Supercopa 1080
 http://127.0.0.1:6878/ace/getstream?id=95d9967309d74d3dbd87c66cf374666bb9da9f07
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,M+ Supercopa 720
+#EXTINF:-1 group-title="Otro contenido" tvg-id="M+ SUPERCOPA" tvg-logo="https://cope-cdnmed.agilecontent.com/resources/png/5/6/1673422944065.png" ,M+ Supercopa 720
 http://127.0.0.1:6878/ace/getstream?id=a16f0078ccb46ba65aaa175ad823e47ec31ab464
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN COLOMBIA
 http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
