@@ -235,9 +235,9 @@ http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 group-title="Otro contenido" tvg-id="SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" ,Sky Sports Plus UK
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Premier Sports 1 UK
+#EXTINF:-1 group-title="Otro contenido" tvg-id="PREMIER SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/stations/a95.png" ,Premier Sports 1 UK
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Premier Sports 2 UK
+#EXTINF:-1 group-title="Otro contenido" tvg-id="PREMIER SPORTS" tvg-logo="https://img.sport-tv-guide.live/images/stations/a95.png" ,Premier Sports 2 UK
 http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 group-title="Otro contenido" tvg-id="RTL+ SPORT EVENT" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png" ,RTL+ SPORT EVENT 1 [DE]
 http://127.0.0.1:6878/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
