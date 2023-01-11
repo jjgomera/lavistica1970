@@ -217,23 +217,23 @@ http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 group-title="Otro contenido" tvg-id="FOX SPORTS" tvg-logo="https://i.imgur.com/wSgo4N2.png" ,FOX SPORTS 2 USA 1080
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport 1 UK 1080 
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BT SPORT" tvg-logo="https://download.logo.wine/logo/BT_Sport/BT_Sport-Logo.wine.png" ,BT Sport 1 UK 1080 
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport 2 UK 1080
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BT SPORT" tvg-logo="https://download.logo.wine/logo/BT_Sport/BT_Sport-Logo.wine.png" ,BT Sport 2 UK 1080
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport 3 UK 1080
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BT SPORT" tvg-logo="https://download.logo.wine/logo/BT_Sport/BT_Sport-Logo.wine.png" ,BT Sport 3 UK 1080
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport 4 UK 1080
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BT SPORT" tvg-logo="https://download.logo.wine/logo/BT_Sport/BT_Sport-Logo.wine.png" ,BT Sport 4 UK 1080
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Sky Sports Arena UK
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" ,Sky Sports Arena UK
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Sky Sports PREMIER LEAGUE UK
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" ,Sky Sports PREMIER LEAGUE UK
 http://127.0.0.1:6878/ace/getstream?id=8d976b2a90dce3b57ed094bd8a6152335c66bbc9
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Sky Sports Football UK
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" ,Sky Sports Football UK
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Sky Sports Main Event UK
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" ,Sky Sports Main Event UK
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Sky Sports Plus UK
+#EXTINF:-1 group-title="Otro contenido" tvg-id="SKY SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" ,Sky Sports Plus UK
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Premier Sports 1 UK
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
