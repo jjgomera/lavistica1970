@@ -147,37 +147,37 @@ http://127.0.0.1:6878/ace/getstream?id=704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 http://127.0.0.1:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 1080
 http://127.0.0.1:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 20 de marzo - Gran Premio de Bhar�in 
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 20 de marzo - Gran Premio de Bharéin 
 http://127.0.0.1:6878/ace/getstream?id=e62fe6487f48578e91225976e3c3d45535e9f976
 #EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 27 de marzo - Gran Premio de Arabia Saudita
 http://127.0.0.1:6878/ace/getstream?id=043a3f5a9bb06a734b603800a9eb73387397fd3b
 #EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 10 de abril - Gran Premio de Australia
 http://127.0.0.1:6878/ace/getstream?id=970dfdcb936199eb9dbc20c04154cc88c78eafc5
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 24 de abril - Gran Premio de Emilia-Roma�a
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 24 de abril - Gran Premio de Emilia-Romaña
 http://127.0.0.1:6878/ace/getstream?id=5f16d332452f840f9f6d91216f20ef3bbf131f5b
 #EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 8 de mayo - Gran Premio de Miami
 http://127.0.0.1:6878/ace/getstream?id=813462be068da608de999da57009d0dadb563232
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 22 de mayo - Gran Premio de Espa�a
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 22 de mayo - Gran Premio de España
 http://127.0.0.1:6878/ace/getstream?id=62d6ef1b217cfcf35c420e155c96790094424254
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 29 de mayo - Gran Premio de M�naco
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 29 de mayo - Gran Premio de Mónaco
 http://127.0.0.1:6878/ace/getstream?id=e5ec725b3f46707f2d15e2bcd5dc68cde87a5a3b
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 12 de junio - Gran Premio de Azerbaiy�n
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 12 de junio - Gran Premio de Azerbaiyán
 http://127.0.0.1:6878/ace/getstream?id=1f25d920888782a1aa0dd58d5f761398d2885c71
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 19 de junio - Gran Premio de Canad�
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 19 de junio - Gran Premio de Canadá
 http://127.0.0.1:6878/ace/getstream?id=85dc8ce0c7c17971ea795bc602b3ee529312d142
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 3 de julio - Gran Premio de Gran Breta�a
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 3 de julio - Gran Premio de Gran Bretaña
 http://127.0.0.1:6878/ace/getstream?id=47793ca10cfc4ac5295088d803ea2e01f5eac786
 #EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 10 de julio - Gran Premio de Austria
 http://127.0.0.1:6878/ace/getstream?id=f991fe2215971049b9e429088d248f542a2adb09
 #EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 24 de julio - Gran Premio de Francia
 http://127.0.0.1:6878/ace/getstream?id=dbab90bb2428cc8e7a9c323a9ed042cb6e16dcc5
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 31 de julio - Gran Premio de Hungr�a
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 31 de julio - Gran Premio de Hungría
 http://127.0.0.1:6878/ace/getstream?id=f005cc4d1c021080e5e834f06b91f25fa09a06ed
 #EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 11 de septiembre - Gran Premio de Italia
 http://127.0.0.1:6878/ace/getstream?id=6275377aa46b2c017655814dfc88bdd7f4bab484
 #EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 23 de octubre - Gran Premio de Estados Unidos
 http://127.0.0.1:6878/ace/getstream?id=4fc072a5ddc7a7222b3c89f02d0f542030fde6fc
-#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1 Carrera: 30 de octubre - Gran Premio de M�xico
+#EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1 Carrera: 30 de octubre - Gran Premio de México
 http://127.0.0.1:6878/ace/getstream?id=4eee4c3cafaead8842463a1919980183ca96bdcb
 #EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1 Carrera Sprin: 12 de noviembre - Gran Premio de Brasil
 http://127.0.0.1:6878/ace/getstream?id=d55c9cbd4b607d348344582283dabc3a81123bd7
@@ -299,9 +299,9 @@ http://127.0.0.1:6878/ace/getstream?id=c95422bc904378be0b035eba721d5e6a004f7d79
 http://127.0.0.1:6878/ace/getstream?id=a1bd609a2d64d1ee4b81af32464b36848fe36541
 #EXTINF:-1 group-title="Otro contenido" tvg-id="SPORT TV" tvg-logo="https://i.imgur.com/YePx20b.png" ,Sport Tv 3 1080
 http://127.0.0.1:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
-#EXTINF:-1 group-title="Otro contenido" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS �
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS ñ
 http://127.0.0.1:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
-#EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Bar�a 720
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN 3 ARGENTINA
 http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
@@ -315,3 +315,595 @@ http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ELLAS" tvg-logo="https://i.imgur.com/OJaEosP.png" ,#Ellas 720
 http://127.0.0.1:6878/ace/getstream?id=71e9e4c66a271ff58beb76792e01eeb6a1dde746
+
+#EXTM3U
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="es | movistar series hd." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEBpSx8GCgWih0oHHoyE1qhtxqyc-OKa_4Q&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",ES | MOVISTAR SERIES HD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/13432
+#EXTINF:-1 tvg-name="es | movistar comedia hd." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHhEwdP186L048fKS0P9yC45cf93Hpsq7RQ&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",ES | MOVISTAR COMEDIA HD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/13433
+#EXTINF:-1 tvg-name="es | movistar disney + hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2kXZscVb8BhbZdYBu-RcTOhaYaXNKjXycdA&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",ES | MOVISTAR DISNEY + HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/13434
+#EXTINF:-1 tvg-name="es | movistar cinedoc&roll hd." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZRwtewzf_RQdfp8oULWbq11-frdivSAteQ&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",ES | MOVISTAR CINEDOC&ROLL HD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/13435
+#EXTINF:-1 tvg-name="es | movistar drama hd." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw82pd0GvckzhcuVUOmcVLeSNsxU3tZUAMdA&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",ES | MOVISTAR DRAMA HD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/13436
+#EXTINF:-1 tvg-name="es | movistar 0# full hd." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMC7bGYHkEfg4VyAcOqNcJVyiEt5CtvXDHrQ&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",ES | MOVISTAR 0# FULL HD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/13437
+#EXTINF:-1 tvg-name="es | movistar acci©n hd." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCsDBs4S34m-f_q7ZjbiHweVQ8z-lYK81PA&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",ES | MOVISTAR ACCI©N HD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/13438
+#EXTINF:-1 tvg-name="mov | movistar dcine ñ  sd (s)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNz6UVdq0ZEJR8SaHnT7iCkoPy7oaetFcM1w&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",MOV | MOVISTAR DCINE Ñ  SD (s)
+http://daleplaypro.com:8080/J4757g67/G4757j67/13441
+#EXTINF:-1 tvg-name="es | movistar estrenos hd." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIYVJdMqvGvYPx_UsHgK6hWDn5RJpqUkz1A&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",ES | MOVISTAR ESTRENOS HD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/13442
+#EXTINF:-1 tvg-name="es | movistar cinedoc&roll sd (c)" tvg-logo="https://www.google.com/search?q=movistar+cine+doc+%26+roll&tbm=isch&ved=2ahUKEwiopYuB_avxAhXUvJUCHVKAD7cQ2-cCegQIABAC&oq=movistar+cine&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQARgCMgIIADICCAAyAggAMgIIADIECAAQGDoECCMQJzoECAAQHjoECB4QCjoFCAAQzQI6BQgAELEDOgYIABAKEBg6BAgAEA1QjIoEWLvCBGDs0gRoAnAAeACAAZ0BiAGVEpIBBDQuMTaYAQCgAQHAAQE&sclient=mobile-gws-wiz-img&ei=LDrSYKjfA9T51sQP0oC-uAs&bih=600&biw=360&client=ms-android-huawei&prmd=minv#imgrc=BPGKS5dxjYKVSM" group-title="(TV) MOVISTAR Y ALQUILLER",ES | MOVISTAR CINEDOC&ROLL sd (C)
+http://daleplaypro.com:8080/J4757g67/G4757j67/13444
+#EXTINF:-1 tvg-name="es | movistar seriesmania hd." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCsj7EeW6mDabSzGn0tPFlJcbyx0_FMW3Mw&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",ES | MOVISTAR SERIESMANIA HD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/13447
+#EXTINF:-1 tvg-name="es | eurosports 1 hd." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37KQrBEbOt1SfqLBMWCpuiU1bcaQhKYDTdg&usqp=CAU" group-title="(TV) DEPORTE EUROPEO",ES | EUROSPORTS 1 HD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/17186
+#EXTINF:-1 tvg-name="es | eurosports 2 hd." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37KQrBEbOt1SfqLBMWCpuiU1bcaQhKYDTdg&usqp=CAU" group-title="(TV) DEPORTE EUROPEO",ES | EUROSPORTS 2 HD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/17187
+#EXTINF:-1 tvg-name="es | bein la liga hd." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpVIy8z3bASP9w4Lk_BPli1HOje18Z8dUEQ&usqp=CAU" group-title="LIGUE 1 FR",ES | BEIN LA LIGA HD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/17198
+#EXTINF:-1 tvg-name="es | canal 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs3wGS-_rBd7fIL5_L7KtZGTSmqh4ye7isEA&usqp=CAU" group-title="(TV) El salvador",ES | CANAL 4
+http://daleplaypro.com:8080/J4757g67/G4757j67/50474
+#EXTINF:-1 tvg-id="DW.TV" tvg-name="es | dw" tvg-logo="https://ipectv.com/dwv8" group-title="(TV) NOTICIAS INTERNACIONALES",ES | DW
+http://daleplaypro.com:8080/J4757g67/G4757j67/63077
+#EXTINF:-1 tvg-name="alquiler 1" tvg-logo="http://daleplay.club:8080/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="(TV) MOVISTAR Y ALQUILLER",ALQUILER 1
+http://daleplaypro.com:8080/J4757g67/G4757j67/101027
+#EXTINF:-1 tvg-name="alquiler 2" tvg-logo="http://daleplay.club:8080/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="(TV) MOVISTAR Y ALQUILLER",ALQUILER 2
+http://daleplaypro.com:8080/J4757g67/G4757j67/101029
+#EXTINF:-1 tvg-name="alquiler 3" tvg-logo="http://daleplay.club:8080/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="(TV) MOVISTAR Y ALQUILLER",ALQUILER 3
+http://daleplaypro.com:8080/J4757g67/G4757j67/101031
+#EXTINF:-1 tvg-name="alquiler 4" tvg-logo="http://daleplay.club:8080/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="(TV) MOVISTAR Y ALQUILLER",ALQUILER 4
+http://daleplaypro.com:8080/J4757g67/G4757j67/101032
+#EXTINF:-1 tvg-name="alquiler 5" tvg-logo="http://daleplay.club:8080/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="(TV) MOVISTAR Y ALQUILLER",ALQUILER 5
+http://daleplaypro.com:8080/J4757g67/G4757j67/101033
+#EXTINF:-1 tvg-name="alquiler 6" tvg-logo="http://daleplay.club:8080/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="(TV) MOVISTAR Y ALQUILLER",ALQUILER 6
+http://daleplaypro.com:8080/J4757g67/G4757j67/101035
+#EXTINF:-1 tvg-id="la1.es" tvg-name="la 1" tvg-logo="http://daleplaypro.com:8080/images/1186f39f3c2ff7dcf5600c76cddb6a47.png" group-title="(TV) ESPAÑA",LA 1
+http://daleplaypro.com:8080/J4757g67/G4757j67/110038
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="la 1 hd" tvg-logo="http://daleplay.club:8080/images/1186f39f3c2ff7dcf5600c76cddb6a47.png" group-title="(TV) ESPAÑA",LA 1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110039
+#EXTINF:-1 tvg-id="LA 1 FHD" tvg-name="la 1 fhd" tvg-logo="http://latinoamericatv.vip:8080/images/1186f39f3c2ff7dcf5600c76cddb6a47.png" group-title="(TV) ESPAÑA",LA 1 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110040
+#EXTINF:-1 tvg-name="star tve" tvg-logo="http://daleplaypro.com:8080/images/b0b32979cdcab6212a9ee51db67bb9df.png" group-title="(TV) ESPAÑA",STAR TVE
+http://daleplaypro.com:8080/J4757g67/G4757j67/110041
+#EXTINF:-1 tvg-name="star tve fhd" tvg-logo="http://daleplaypro.com:8080/images/b0b32979cdcab6212a9ee51db67bb9df.png" group-title="(TV) ESPAÑA",STAR TVE FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110042
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="la 2" tvg-logo="http://daleplay.club:8080/images/26b8b661c5ecf258a39694278ca284d9.png" group-title="(TV) ESPAÑA",LA 2
+http://daleplaypro.com:8080/J4757g67/G4757j67/110043
+#EXTINF:-1 tvg-id="la2.es" tvg-name="la 2 fhd" tvg-logo="http://daleplay.club:8080/images/c59134c734b1fc689c1e47a26b1f75d4.png" group-title="(TV) ESPAÑA",LA 2 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110044
+#EXTINF:-1 tvg-name="tve internacional*" tvg-logo="http://latinoamericatv.vip:8080/images/077a4b46370bdece5573eef5da3c3f7f.png" group-title="(TV) ESPAÑA",TVE INTERNACIONAL*
+http://daleplaypro.com:8080/J4757g67/G4757j67/110045
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="antena 3" tvg-logo="http://daleplaypro.com:8080/images/c3c714ca8288fb2db477ab7312deb35c.png" group-title="(TV) ESPAÑA",ANTENA 3
+http://daleplaypro.com:8080/J4757g67/G4757j67/110046
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="antena 3 hd" tvg-logo="http://daleplay.club:8080/images/c3c714ca8288fb2db477ab7312deb35c.png" group-title="(TV) ESPAÑA",ANTENA 3 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110047
+#EXTINF:-1 tvg-id="ANTENA 3 FHD" tvg-name="antena 3 fhd" tvg-logo="http://daleplaypro.com:8080/images/c3c714ca8288fb2db477ab7312deb35c.png" group-title="(TV) ESPAÑA",ANTENA 3 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110048
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="cuatro" tvg-logo="http://daleplaypro.com:8080/images/10cffa3578c870bf70fb51f8514d23a0.png" group-title="(TV) ESPAÑA",CUATRO
+http://daleplaypro.com:8080/J4757g67/G4757j67/110049
+#EXTINF:-1 tvg-id="CUATRO FHD" tvg-name="cuatro hd" tvg-logo="http://daleplay.club:8080/images/10cffa3578c870bf70fb51f8514d23a0.png" group-title="(TV) ESPAÑA",CUATRO HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110050
+#EXTINF:-1 tvg-id="CUATRO FHD" tvg-name="cuatro fhd" tvg-logo="http://daleplay.club:8080/images/10cffa3578c870bf70fb51f8514d23a0.png" group-title="(TV) ESPAÑA",CUATRO FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110051
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="telecinco" tvg-logo="http://daleplaypro.com:8080/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="(TV) ESPAÑA",TELECINCO
+http://daleplaypro.com:8080/J4757g67/G4757j67/110052
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="telecinco hd" tvg-logo="http://daleplaypro.com:8080/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="(TV) ESPAÑA",TELECINCO HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110053
+#EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="telecinco fhd" tvg-logo="http://latinoamericatv.vip:8080/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="(TV) ESPAÑA",TELECINCO FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110054
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="la sexta" tvg-logo="http://daleplay.club:8080/images/966ee4301686bd3293f32284a44274d5.png" group-title="(TV) ESPAÑA",LA SEXTA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110055
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="la sexta hd" tvg-logo="http://daleplaypro.com:8080/images/966ee4301686bd3293f32284a44274d5.png" group-title="(TV) ESPAÑA",LA SEXTA HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110056
+#EXTINF:-1 tvg-id="lasxta.es" tvg-name="la sexta fhd" tvg-logo="http://daleplay.club:8080/images/966ee4301686bd3293f32284a44274d5.png" group-title="(TV) ESPAÑA",LA SEXTA FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110057
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="a3series" tvg-logo="http://daleplay.club:8080/images/7161afb1a96e248ee7e33d143625c869.png" group-title="(TV) ESPAÑA",A3SERIES
+http://daleplaypro.com:8080/J4757g67/G4757j67/110058
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="a3series hd" tvg-logo="http://daleplay.club:8080/images/7161afb1a96e248ee7e33d143625c869.png" group-title="(TV) ESPAÑA",A3SERIES HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110059
+#EXTINF:-1 tvg-name="a3series fhd" tvg-logo="http://latinoamericatv.vip:8080/images/4537c4c56bb8e797a44a10ad23a866e2.png" group-title="(TV) ESPAÑA",A3SERIES FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110060
+#EXTINF:-1 tvg-id="NEOX" tvg-name="neox" tvg-logo="http://daleplay.club:8080/images/6688ae08d71acde51bd63b7320aba94c.png" group-title="(TV) ESPAÑA",NEOX
+http://daleplaypro.com:8080/J4757g67/G4757j67/110061
+#EXTINF:-1 tvg-name="neox fhd" tvg-logo="http://latinoamericatv.vip:8080/images/6688ae08d71acde51bd63b7320aba94c.png" group-title="(TV) ESPAÑA",NEOX FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110062
+#EXTINF:-1 tvg-id="NOVA" tvg-name="nova" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/antena_nova.jpg" group-title="(TV) ESPAÑA",NOVA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110063
+#EXTINF:-1 tvg-id="NOVA FHD" tvg-name="nova fhd" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/antena_nova.jpg" group-title="(TV) ESPAÑA",NOVA FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110064
+#EXTINF:-1 tvg-id="BeMad tv HD" tvg-name="bemad tv hd" tvg-logo="http://latinoamericatv.vip:8080/images/98e55f5cfffaa0ccee0f986d04e78f6a.png" group-title="(TV) ESPAÑA",BEMAD TV HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110065
+#EXTINF:-1 tvg-name="bemad sd" tvg-logo="http://latinoamericatv.vip:8080/images/98e55f5cfffaa0ccee0f986d04e78f6a.png" group-title="(TV) ESPAÑA",BEMAD SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110066
+#EXTINF:-1 tvg-name="bemad tv fhd" tvg-logo="http://latinoamericatv.vip:8080/images/98e55f5cfffaa0ccee0f986d04e78f6a.png" group-title="(TV) ESPAÑA",BEMAD TV FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110067
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="mega" tvg-logo="http://daleplay.club:8080/images/d4faa708735bad60438d674c8d48ed67.png" group-title="(TV) ESPAÑA",MEGA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110068
+#EXTINF:-1 tvg-id="mega.es" tvg-name="mega hd" tvg-logo="http://latinoamericatv.vip:8080/images/d4faa708735bad60438d674c8d48ed67.png" group-title="(TV) ESPAÑA",MEGA HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110069
+#EXTINF:-1 tvg-id="mega.es" tvg-name="mega fhd" tvg-logo="http://daleplay.club:8080/images/d4faa708735bad60438d674c8d48ed67.png" group-title="(TV) ESPAÑA",MEGA FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110070
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="energy hd" tvg-logo="http://latinoamericatv.vip:8080/images/5819e8ce65172793665396ddb1f2ec7c.png" group-title="(TV) ESPAÑA",ENERGY HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110071
+#EXTINF:-1 tvg-id="DKISS" tvg-name="dkiss" tvg-logo="http://daleplaypro.com:8080/images/afccc3195fe20727961833a33a594537.png" group-title="(TV) ESPAÑA",DKISS
+http://daleplaypro.com:8080/J4757g67/G4757j67/110072
+#EXTINF:-1 tvg-name="divinity" tvg-logo="http://daleplay.club:8080/images/24d1176ddefe601b948c68e67f347a71.png" group-title="(TV) ESPAÑA",DIVINITY
+http://daleplaypro.com:8080/J4757g67/G4757j67/110073
+#EXTINF:-1 tvg-name="trece" tvg-logo="http://latinoamericatv.vip:8080/images/19980d1a3d1f7c66c5fad9d283573220.png" group-title="(TV) ESPAÑA",TRECE
+http://daleplaypro.com:8080/J4757g67/G4757j67/110074
+#EXTINF:-1 tvg-id="Ten" tvg-name="ten" tvg-logo="http://daleplay.club:8080/images/6d26dd785a4cf1b001ebbca03f0d92e0.png" group-title="(TV) ESPAÑA",TEN
+http://daleplaypro.com:8080/J4757g67/G4757j67/110075
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="24h" tvg-logo="http://daleplay.club:8080/images/203e99cb097a9bc4da61343e0096d535.png" group-title="(TV) ESPAÑA",24H
+http://daleplaypro.com:8080/J4757g67/G4757j67/110076
+#EXTINF:-1 tvg-id="FDF" tvg-name="fdf" tvg-logo="http://daleplaypro.com:8080/images/7090257e0c33184acf9c58895c5094d8.jpg" group-title="(TV) ESPAÑA",FDF
+http://daleplaypro.com:8080/J4757g67/G4757j67/110077
+#EXTINF:-1 tvg-name="cosmo" tvg-logo="http://latinoamericatv.vip:8080/images/fcd004e6313779d4b52dd4abe04a547a.png" group-title="(TV) ESPAÑA",COSMO
+http://daleplaypro.com:8080/J4757g67/G4757j67/110078
+#EXTINF:-1 tvg-name="cosmos hd" tvg-logo="http://daleplaypro.com:8080/images/fcd004e6313779d4b52dd4abe04a547a.png" group-title="(TV) ESPAÑA",COSMOS HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110079
+#EXTINF:-1 tvg-id="COSMO FHD" tvg-name="cosmo fhd" tvg-logo="http://daleplay.club:8080/images/fcd004e6313779d4b52dd4abe04a547a.png" group-title="(TV) ESPAÑA",COSMO FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110080
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="syfy" tvg-logo="http://daleplay.club:8080/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="(TV) ESPAÑA",SYFY
+http://daleplaypro.com:8080/J4757g67/G4757j67/110081
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="syfy hd" tvg-logo="http://daleplay.club:8080/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="(TV) ESPAÑA",SYFY HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110082
+#EXTINF:-1 tvg-id="SYFY FHD" tvg-name="syfy fhd" tvg-logo="http://daleplay.club:8080/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="(TV) ESPAÑA",SYFY FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110083
+#EXTINF:-1 tvg-id="amc.es" tvg-name="amc" tvg-logo="http://daleplaypro.com:8080/images/343e877633675f15afd1fc828ab924a2.png" group-title="(TV) ESPAÑA",AMC
+http://daleplaypro.com:8080/J4757g67/G4757j67/110084
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="amc fhd" tvg-logo="http://daleplay.club:8080/images/343e877633675f15afd1fc828ab924a2.png" group-title="(TV) ESPAÑA",AMC FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110085
+#EXTINF:-1 tvg-id="Dark" tvg-name="dark" tvg-logo="http://daleplay.club:8080/images/90d45507cca59c0b23cfa2ffd0c71899.png" group-title="(TV) ESPAÑA",DARK
+http://daleplaypro.com:8080/J4757g67/G4757j67/110086
+#EXTINF:-1 tvg-name="somos" tvg-logo="http://latinoamericatv.vip:8080/images/ec83cdda8091c949a7a26347254594f0.png" group-title="(TV) ESPAÑA",SOMOS
+http://daleplaypro.com:8080/J4757g67/G4757j67/110087
+#EXTINF:-1 tvg-name="xtrm hd" tvg-logo="http://daleplay.club:8080/images/d1765afea20c6f96661217674396407d.png" group-title="(TV) ESPAÑA",XTRM HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110088
+#EXTINF:-1 tvg-id="XTRM" tvg-name="xtrm fhd" tvg-logo="http://latinoamericatv.vip:8080/images/d1765afea20c6f96661217674396407d.png" group-title="(TV) ESPAÑA",XTRM FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110089
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="sundance tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SundanceTV.svg/1280px-SundanceTV.svg.png" group-title="(TV) ESPAÑA",SUNDANCE TV
+http://daleplaypro.com:8080/J4757g67/G4757j67/110090
+#EXTINF:-1 tvg-name="sundance hd" tvg-logo="http://latinoamericatv.vip:8080/images/1d48b8c2f3653f2d73a33f0229da022e.png" group-title="(TV) ESPAÑA",SUNDANCE HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110091
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="sundance fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SundanceTV.svg/1280px-SundanceTV.svg.png" group-title="(TV) ESPAÑA",SUNDANCE FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110092
+#EXTINF:-1 tvg-name="mtv" tvg-logo="http://latinoamericatv.vip:8080/images/fef8b6268ff6bce8301de151e6ade34b.png" group-title="(TV) ESPAÑA",MTV
+http://daleplaypro.com:8080/J4757g67/G4757j67/110093
+#EXTINF:-1 tvg-name="::::::::::::::: movistar cine  :::::::::::::::" tvg-logo="http://latinoamericatv.vip:8080/images/647b427a0610a5f361c285d11b9b34a2.png" group-title="(TV) ESPAÑA",::::::::::::::: MOVISTAR CINE  :::::::::::::::
+http://daleplaypro.com:8080/J4757g67/G4757j67/110094
+#EXTINF:-1 tvg-id="#0" tvg-name="#0" tvg-logo="http://latinoamericatv.vip:8080/images/f3796baf3128463255d80e631e68f440.png" group-title="(TV) ESPAÑA",#0
+http://daleplaypro.com:8080/J4757g67/G4757j67/110095
+#EXTINF:-1 tvg-name="# hd" tvg-logo="http://latinoamericatv.vip:8080/images/67940993cb73c0e92cc8558dc78c4d22.png" group-title="(TV) ESPAÑA",# HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110096
+#EXTINF:-1 tvg-name="#0 fhd" tvg-logo="http://daleplay.club:8080/images/67940993cb73c0e92cc8558dc78c4d22.png" group-title="(TV) ESPAÑA",#0 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110097
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="movistar  estrenos" tvg-logo="http://latinoamericatv.vip:8080/images/b87c40a4d1aa4739ad4a2115cf263bbd.png" group-title="(TV) ESPAÑA",MOVISTAR  ESTRENOS
+http://daleplaypro.com:8080/J4757g67/G4757j67/110098
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="movistar estrenos hd" tvg-logo="http://daleplay.club:8080/images/b87c40a4d1aa4739ad4a2115cf263bbd.png" group-title="(TV) ESPAÑA",MOVISTAR ESTRENOS HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110099
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="movistar  estrenos fhd" tvg-logo="http://daleplaypro.com:8080/images/dd94a3624f8f41e7a9ef3ee1abec6ea2.png" group-title="(TV) ESPAÑA",MOVISTAR  ESTRENOS FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110100
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="movistar estrenos 2 hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="(TV) ESPAÑA",MOVISTAR ESTRENOS 2 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110101
+#EXTINF:-1 tvg-name="movistar estrenos 2 fhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="(TV) ESPAÑA",MOVISTAR ESTRENOS 2 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110102
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="movistar accion" tvg-logo="http://daleplay.club:8080/images/95e69be11fae1b753bbe056915b26c11.png" group-title="(TV) ESPAÑA",MOVISTAR ACCION
+http://daleplaypro.com:8080/J4757g67/G4757j67/110103
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="movistar accion hd" tvg-logo="http://daleplay.club:8080/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="(TV) ESPAÑA",MOVISTAR ACCION HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110104
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="movistar accion fhd" tvg-logo="http://latinoamericatv.vip:8080/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="(TV) ESPAÑA",MOVISTAR ACCION FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110105
+#EXTINF:-1 tvg-id="M.COMEDIA" tvg-name="movistar comedia" tvg-logo="http://latinoamericatv.vip:8080/images/09ab04e233864f2f4d992c86a663671a.jpg" group-title="(TV) ESPAÑA",MOVISTAR COMEDIA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110106
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="movistar comedia hd" tvg-logo="http://daleplay.club:8080/images/09ab04e233864f2f4d992c86a663671a.jpg" group-title="(TV) ESPAÑA",MOVISTAR COMEDIA HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110107
+#EXTINF:-1 tvg-name="movistar comedia fhd" tvg-logo="http://latinoamericatv.vip:8080/images/09ab04e233864f2f4d992c86a663671a.jpg" group-title="(TV) ESPAÑA",MOVISTAR COMEDIA FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110108
+#EXTINF:-1 tvg-id="M. DRAMA" tvg-name="movistar drama" tvg-logo="http://latinoamericatv.vip:8080/images/f3f830d35aa9d191e8c15499e9bdcfc3.png" group-title="(TV) ESPAÑA",MOVISTAR DRAMA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110109
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="movistar drama hd" tvg-logo="http://latinoamericatv.vip:8080/images/f3f830d35aa9d191e8c15499e9bdcfc3.png" group-title="(TV) ESPAÑA",MOVISTAR DRAMA HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110110
+#EXTINF:-1 tvg-name="movistar drama fhd" tvg-logo="http://daleplaypro.com:8080/images/f3f830d35aa9d191e8c15499e9bdcfc3.png" group-title="(TV) ESPAÑA",MOVISTAR DRAMA FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110111
+#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="movistar clasicos sd" tvg-logo="http://xtitan.xyz:2082/images/5a370ad3a70454b47d4a477430a1f89b.png" group-title="(TV) ESPAÑA",MOVISTAR CLASICOS SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110112
+#EXTINF:-1 tvg-name="movistar clasicos fhd" tvg-logo="http://xtitan.xyz:2082/images/5a370ad3a70454b47d4a477430a1f89b.png" group-title="(TV) ESPAÑA",MOVISTAR CLASICOS FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110113
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="movistar fest fhd" tvg-logo="http://daleplaypro.com:8080/images/e83dd3525e0f59d7c4e8c78796d59ce9.png" group-title="(TV) ESPAÑA",MOVISTAR FEST FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110114
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="comedy central" tvg-logo="http://daleplay.club:8080/images/17ad467ec489133da03c6b3cb03f5d07.jpg" group-title="(TV) ESPAÑA",COMEDY CENTRAL
+http://daleplaypro.com:8080/J4757g67/G4757j67/110115
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="comedy central hd" tvg-logo="http://daleplaypro.com:8080/images/17ad467ec489133da03c6b3cb03f5d07.jpg" group-title="(TV) ESPAÑA",COMEDY CENTRAL HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110116
+#EXTINF:-1 tvg-name="comedy central fhd" tvg-logo="http://daleplaypro.com:8080/images/17ad467ec489133da03c6b3cb03f5d07.jpg" group-title="(TV) ESPAÑA",COMEDY CENTRAL FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110117
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="movistar  cine español" tvg-logo="http://127.0.0.1/" group-title="(TV) ESPAÑA",MOVISTAR  CINE ESPAÑOL
+http://daleplaypro.com:8080/J4757g67/G4757j67/110118
+#EXTINF:-1 tvg-name="movistar cine español fhd" tvg-logo="http://daleplaypro.com:8080/images/432fc9cb4ae310b06ee207fb94b60d02.png" group-title="(TV) ESPAÑA",MOVISTAR CINE ESPAÑOL FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110119
+#EXTINF:-1 tvg-id="Disney+" tvg-name="movistar disney +" tvg-logo="http://latinoamericatv.vip:8080/images/2d3278c975a9c5a03287843e8a22f8a0.png" group-title="(TV) ESPAÑA",MOVISTAR DISNEY +
+http://daleplaypro.com:8080/J4757g67/G4757j67/110120
+#EXTINF:-1 tvg-name="alquiler 7" tvg-logo="http://daleplay.club:8080/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="(TV) MOVISTAR Y ALQUILLER",ALQUILER 7
+http://daleplaypro.com:8080/J4757g67/G4757j67/110126
+#EXTINF:-1 tvg-name="alquiler 8" tvg-logo="http://daleplay.club:8080/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="(TV) MOVISTAR Y ALQUILLER",ALQUILER 8
+http://daleplaypro.com:8080/J4757g67/G4757j67/110127
+#EXTINF:-1 tvg-name="alquiler 9" tvg-logo="http://daleplay.club:8080/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="(TV) MOVISTAR Y ALQUILLER",ALQUILER 9
+http://daleplaypro.com:8080/J4757g67/G4757j67/110128
+#EXTINF:-1 tvg-name="alquiler 10" tvg-logo="http://daleplaypro.com:8080/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="(TV) MOVISTAR Y ALQUILLER",ALQUILER 10
+http://daleplaypro.com:8080/J4757g67/G4757j67/110129
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="movistar  series 2" tvg-logo="http://latinoamericatv.vip:8080/images/fa93244c9bffb41d922f5943147959e0.png" group-title="(TV) ESPAÑA",MOVISTAR  SERIES 2
+http://daleplaypro.com:8080/J4757g67/G4757j67/110133
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="movistar series 2 hd" tvg-logo="http://daleplay.club:8080/images/fa93244c9bffb41d922f5943147959e0.png" group-title="(TV) ESPAÑA",MOVISTAR SERIES 2 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110134
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="movistar  series 2 fhd" tvg-logo="http://latinoamericatv.vip:8080/images/fa93244c9bffb41d922f5943147959e0.png" group-title="(TV) ESPAÑA",MOVISTAR  SERIES 2 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110135
+#EXTINF:-1 tvg-id="M. SERIES" tvg-name="movistar  series" tvg-logo="http://latinoamericatv.vip:8080/images/32d22bfff4c918e13524b74e5efa82a8.png" group-title="(TV) ESPAÑA",MOVISTAR  SERIES
+http://daleplaypro.com:8080/J4757g67/G4757j67/110136
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="movistar series hd" tvg-logo="http://daleplay.club:8080/images/32d22bfff4c918e13524b74e5efa82a8.png" group-title="(TV) ESPAÑA",MOVISTAR SERIES HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110137
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="movistar  series fhd" tvg-logo="http://daleplaypro.com:8080/images/32d22bfff4c918e13524b74e5efa82a8.png" group-title="(TV) ESPAÑA",MOVISTAR  SERIES FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110138
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="movistar la resistencia" tvg-logo="http://127.0.0.1/" group-title="(TV) ESPAÑA",MOVISTAR LA RESISTENCIA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110139
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="axn white" tvg-logo="http://latinoamericatv.vip:8080/images/5d340d069ce4995b89a26961d3aaf7b1.png" group-title="(TV) ESPAÑA",AXN White
+http://daleplaypro.com:8080/J4757g67/G4757j67/110140
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="axn white hd" tvg-logo="http://daleplay.club:8080/images/5d340d069ce4995b89a26961d3aaf7b1.png" group-title="(TV) ESPAÑA",AXN WHITE HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110141
+#EXTINF:-1 tvg-name="axn white fhd" tvg-logo="http://daleplay.club:8080/images/5d340d069ce4995b89a26961d3aaf7b1.png" group-title="(TV) ESPAÑA",AXN WHITE FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110142
+#EXTINF:-1 tvg-id="axn.es" tvg-name="axn" tvg-logo="http://daleplay.club:8080/images/f24680f5a359fbe28c888266ed7f89de.png" group-title="(TV) ESPAÑA",AXN
+http://daleplaypro.com:8080/J4757g67/G4757j67/110143
+#EXTINF:-1 tvg-name="axn hd" tvg-logo="http://daleplaypro.com:8080/images/afeda469188fbc964d949faa482b7b57.png" group-title="(TV) ESPAÑA",AXN HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110144
+#EXTINF:-1 tvg-id="AXN FHD" tvg-name="axn fhd" tvg-logo="http://latinoamericatv.vip:8080/images/afeda469188fbc964d949faa482b7b57.png" group-title="(TV) ESPAÑA",AXN FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110145
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="calle 13" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/calle13_universal_hd.jpg" group-title="(TV) ESPAÑA",CALLE 13
+http://daleplaypro.com:8080/J4757g67/G4757j67/110146
+#EXTINF:-1 tvg-name="calle 13 hd" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/calle13_universal_hd.jpg" group-title="(TV) ESPAÑA",CALLE 13 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110147
+#EXTINF:-1 tvg-name="calle 13 fhd" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/calle13_universal_hd.jpg" group-title="(TV) ESPAÑA",CALLE 13 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110148
+#EXTINF:-1 tvg-id="TNT" tvg-name="tnt" tvg-logo="http://latinoamericatv.vip:8080/images/4b6f6c3a3f69b2d5bbe4c61abe9ccd40.png" group-title="(TV) ESPAÑA",TNT
+http://daleplaypro.com:8080/J4757g67/G4757j67/110149
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="tnt hd" tvg-logo="http://daleplaypro.com:8080/images/2bfef0530e86875773ac557931601714.png" group-title="(TV) ESPAÑA",TNT HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110150
+#EXTINF:-1 tvg-id="TNT FHD" tvg-name="tnt fhd" tvg-logo="http://latinoamericatv.vip:8080/images/2bfef0530e86875773ac557931601714.png" group-title="(TV) ESPAÑA",TNT FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110151
+#EXTINF:-1 tvg-name="tcm" tvg-logo="http://latinoamericatv.vip:8080/images/481ee88402266fde60880abc1b4f7a48.png" group-title="(TV) ESPAÑA",TCM
+http://daleplaypro.com:8080/J4757g67/G4757j67/110152
+#EXTINF:-1 tvg-name="tcm hd" tvg-logo="http://daleplaypro.com:8080/images/481ee88402266fde60880abc1b4f7a48.png" group-title="(TV) ESPAÑA",TCM HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110153
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="tcm fhd" tvg-logo="http://daleplaypro.com:8080/images/481ee88402266fde60880abc1b4f7a48.png" group-title="(TV) ESPAÑA",TCM FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110154
+#EXTINF:-1 tvg-id="FOX" tvg-name="fox" tvg-logo="http://latinoamericatv.vip:8080/images/dd217ac1cec1290c1a2394545f85841f.jpg" group-title="(TV) ESPAÑA",FOX
+http://daleplaypro.com:8080/J4757g67/G4757j67/110155
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="fox hd" tvg-logo="http://daleplay.club:8080/images/2b5421b3faae42999e766cb0736de3a3.jpg" group-title="(TV) ESPAÑA",FOX HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110156
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="fox fhd" tvg-logo="http://daleplay.club:8080/images/2b5421b3faae42999e766cb0736de3a3.jpg" group-title="(TV) ESPAÑA",FOX FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110157
+#EXTINF:-1 tvg-name="hollywood" tvg-logo="http://daleplaypro.com:8080/images/4709ead2b0079d2d9ae797c94baf3e2a.png" group-title="(TV) ESPAÑA",HOLLYWOOD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110158
+#EXTINF:-1 tvg-name="hollywood hd" tvg-logo="http://latinoamericatv.vip:8080/images/4709ead2b0079d2d9ae797c94baf3e2a.png" group-title="(TV) ESPAÑA",HOLLYWOOD HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110159
+#EXTINF:-1 tvg-name="hollywood fhd" tvg-logo="http://latinoamericatv.vip:8080/images/4709ead2b0079d2d9ae797c94baf3e2a.png" group-title="(TV) ESPAÑA",HOLLYWOOD FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110160
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="paramount channel fhd" tvg-logo="http://latinoamericatv.vip:8080/images/0e7aff368f4bf856b14630d4e13545d9.png" group-title="(TV) ESPAÑA",PARAMOUNT CHANNEL FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110161
+#EXTINF:-1 tvg-name="mytime movie network" tvg-logo="http://127.0.0.1/" group-title="(TV) ESPAÑA",MyTIME MOVIE NETWORK
+http://daleplaypro.com:8080/J4757g67/G4757j67/110162
+#EXTINF:-1 tvg-name="comedy dynamics" tvg-logo="http://127.0.0.1/" group-title="(TV) ESPAÑA",COMEDY DYNAMICS
+http://daleplaypro.com:8080/J4757g67/G4757j67/110163
+#EXTINF:-1 tvg-name="::::::::::::::: deportes :::::::::::::::" tvg-logo="http://latinoamericatv.vip:8080/images/1747d4b2dd4bcd666e2df31563d22dbe.png" group-title="(TV) ESPAÑA",::::::::::::::: DEPORTES :::::::::::::::
+http://daleplaypro.com:8080/J4757g67/G4757j67/110164
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="movistar vamos" tvg-logo="http://xtitan.xyz:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="(TV) ESPAÑA",MOVISTAR VAMOS
+http://daleplaypro.com:8080/J4757g67/G4757j67/110165
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="movistar vamos hd" tvg-logo="http://x.mdcam.live:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="(TV) ESPAÑA",MOVISTAR VAMOS HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110166
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="movistar  vamos fhd" tvg-logo="http://xtitan.xyz:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="(TV) ESPAÑA",MOVISTAR  VAMOS FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110167
+#EXTINF:-1 tvg-name="movistar vamos fhd extra" tvg-logo="http://xtitan.xyz:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="(TV) ESPAÑA",MOVISTAR VAMOS FHD EXTRA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110168
+#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="movistar  la liga" tvg-logo="http://daleplaypro.com:8080/images/a34a7db237454cb394432edfa5a8dde8.png" group-title="ES | LA LIGA",MOVISTAR  LA LIGA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110184
+#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="movistar la liga hd" tvg-logo="http://daleplaypro.com:8080/images/a34a7db237454cb394432edfa5a8dde8.png" group-title="ES | LA LIGA",MOVISTAR LA LIGA HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110185
+#EXTINF:-1 tvg-id="MovistarLaLigaUHD.es" tvg-name="movistar la liga fhd" tvg-logo="http://daleplaypro.com:8080/images/a34a7db237454cb394432edfa5a8dde8.png" group-title="ES | LA LIGA",MOVISTAR LA LIGA FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110189
+#EXTINF:-1 tvg-id="MovistarLaLiga1.es" tvg-name="movistar la liga 1" tvg-logo="http://daleplaypro.com:8080/images/a34a7db237454cb394432edfa5a8dde8.png" group-title="ES | LA LIGA",MOVISTAR LA LIGA 1
+http://daleplaypro.com:8080/J4757g67/G4757j67/110191
+#EXTINF:-1 tvg-name="movistar  golf" tvg-logo="http://latinoamericatv.vip:8080/images/9309d380a01947836a066bdda1b290a9.png" group-title="(TV) ESPAÑA",MOVISTAR  GOLF
+http://daleplaypro.com:8080/J4757g67/G4757j67/110216
+#EXTINF:-1 tvg-name="movistar golf hd" tvg-logo="http://latinoamericatv.vip:8080/images/9309d380a01947836a066bdda1b290a9.png" group-title="(TV) ESPAÑA",MOVISTAR GOLF HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110217
+#EXTINF:-1 tvg-id="M. GOLF FHD" tvg-name="movistar  golf fhd" tvg-logo="http://latinoamericatv.vip:8080/images/9309d380a01947836a066bdda1b290a9.png" group-title="(TV) ESPAÑA",MOVISTAR  GOLF FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110218
+#EXTINF:-1 tvg-name="movistar f1 hd" tvg-logo="http://daleplay.club:8080/images/e725fbfec07bf421d8d82dc3849d0200.png" group-title="ZONA | FORMULA 1",MOVISTAR F1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110220
+#EXTINF:-1 tvg-name="movistar f1 fhd" tvg-logo="http://127.0.0.1/" group-title="ZONA | FORMULA 1",MOVISTAR F1 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110221
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="dazn movistar 1 fhd." tvg-logo="http://daleplaypro.com:8080/images/340b9b4eece1e82a2fadcdee529dd457.png" group-title="ZONA | DAZN",DAZN MOVISTAR 1 FHD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/110224
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="dazn movistar 1 hd" tvg-logo="http://daleplaypro.com:8080/images/340b9b4eece1e82a2fadcdee529dd457.png" group-title="ZONA | DAZN",DAZN MOVISTAR 1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110225
+#EXTINF:-1 tvg-name="dazn movistar 2 hd" tvg-logo="http://daleplay.club:8080/images/340b9b4eece1e82a2fadcdee529dd457.png" group-title="ZONA | DAZN",DAZN MOVISTAR 2 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110226
+#EXTINF:-1 tvg-name="dazn movistar 2 fhd." tvg-logo="http://daleplaypro.com:8080/images/340b9b4eece1e82a2fadcdee529dd457.png" group-title="ZONA | DAZN",DAZN MOVISTAR 2 FHD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/110228
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="dazn movistar 3 hd." tvg-logo="http://daleplay.club:8080/images/340b9b4eece1e82a2fadcdee529dd457.png" group-title="ZONA | DAZN",DAZN MOVISTAR 3 HD.
+http://daleplaypro.com:8080/J4757g67/G4757j67/110229
+#EXTINF:-1 tvg-name="dazn movistar 3 fhd" tvg-logo="http://daleplay.club:8080/images/340b9b4eece1e82a2fadcdee529dd457.png" group-title="ZONA | DAZN",DAZN MOVISTAR 3 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110230
+#EXTINF:-1 tvg-name="dazn movistar 4 hd" tvg-logo="http://daleplay.club:8080/images/340b9b4eece1e82a2fadcdee529dd457.png" group-title="ZONA | DAZN",DAZN MOVISTAR 4 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110231
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="dazn movistar 1 sd" tvg-logo="http://daleplaypro.com:8080/images/340b9b4eece1e82a2fadcdee529dd457.png" group-title="ZONA | DAZN",DAZN MOVISTAR 1 SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110232
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="teledeportes" tvg-logo="http://daleplaypro.com:8080/images/71333d283a49f6ca99efb8a86f57ef38.png" group-title="(TV) ESPAÑA",TELEDEPORTES
+http://daleplaypro.com:8080/J4757g67/G4757j67/110233
+#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-name="teledeportes fhd" tvg-logo="http://latinoamericatv.vip:8080/images/71333d283a49f6ca99efb8a86f57ef38.png" group-title="(TV) ESPAÑA",TELEDEPORTES FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110234
+#EXTINF:-1 tvg-name="barca tv" tvg-logo="http://daleplay.club:8080/images/86a892c3e955eafb4f58bb24b5882113.png" group-title="(TV) ESPAÑA",BARCA TV
+http://daleplaypro.com:8080/J4757g67/G4757j67/110235
+#EXTINF:-1 tvg-id="BARCA TV FHD" tvg-name="barca tv fhd" tvg-logo="http://daleplay.club:8080/images/86a892c3e955eafb4f58bb24b5882113.png" group-title="(TV) ESPAÑA",BARCA TV FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110236
+#EXTINF:-1 tvg-id="SEVILLAFC TV" tvg-name="sevilla fc" tvg-logo="http://de.live-tv-channels.net/pt-data/uploads/logo/sevilla_fc_tv_es.png" group-title="(TV) ESPAÑA",SEVILLA FC
+http://daleplaypro.com:8080/J4757g67/G4757j67/110237
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="real madrid tv" tvg-logo="http://daleplaypro.com:8080/images/86a892c3e955eafb4f58bb24b5882113.png" group-title="(TV) ESPAÑA",REAL MADRID TV
+http://daleplaypro.com:8080/J4757g67/G4757j67/110238
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="real madrid fhd" tvg-logo="http://127.0.0.1/" group-title="(TV) ESPAÑA",REAL MADRID FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110239
+#EXTINF:-1 tvg-name="::::::::::::::: life style :::::::::::::::" tvg-logo="http://latinoamericatv.vip:8080/images/1747d4b2dd4bcd666e2df31563d22dbe.png" group-title="(TV) ESPAÑA",::::::::::::::: LIFE STYLE :::::::::::::::
+http://daleplaypro.com:8080/J4757g67/G4757j67/110240
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="canal cocina" tvg-logo="http://daleplay.club:8080/images/3041b87f49c9700bb3b929c737953f71.png" group-title="(TV) ESPAÑA",CANAL COCINA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110241
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="canal cocina hd" tvg-logo="http://latinoamericatv.vip:8080/images/3041b87f49c9700bb3b929c737953f71.png" group-title="(TV) ESPAÑA",CANAL COCINA HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110242
+#EXTINF:-1 tvg-id="CANAL COCINA FHD" tvg-name="canal cocina fhd" tvg-logo="http://daleplaypro.com:8080/images/3041b87f49c9700bb3b929c737953f71.png" group-title="(TV) ESPAÑA",CANAL COCINA FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110243
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="canal decasa" tvg-logo="http://daleplaypro.com:8080/images/3903936ebcb3ba811345cbf4aa9312de.png" group-title="(TV) ESPAÑA",CANAL DECASA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110244
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="canal decasa hd" tvg-logo="http://daleplay.club:8080/images/3903936ebcb3ba811345cbf4aa9312de.png" group-title="(TV) ESPAÑA",CANAL DECASA HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110245
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="canal decasa fhd" tvg-logo="http://latinoamericatv.vip:8080/images/3903936ebcb3ba811345cbf4aa9312de.png" group-title="(TV) ESPAÑA",CANAL DECASA FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110246
+#EXTINF:-1 tvg-name="::::::::::::::: documentales :::::::::::::::" tvg-logo="http://latinoamericatv.vip:8080/images/1747d4b2dd4bcd666e2df31563d22dbe.png" group-title="(TV) ESPAÑA",::::::::::::::: DOCUMENTALES :::::::::::::::
+http://daleplaypro.com:8080/J4757g67/G4757j67/110247
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="(TV) ESPAÑA",HISTORIA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110248
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="historia hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="(TV) ESPAÑA",HISTORIA HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110249
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="historia fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="(TV) ESPAÑA",HISTORIA FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110250
+#EXTINF:-1 tvg-id="NAT GEO" tvg-name="national geographic" tvg-logo="http://daleplay.club:8080/images/0e471d7dd56a9dae2f530e1c12e7661c.png" group-title="(TV) ESPAÑA",NATIONAL GEOGRAPHIC
+http://daleplaypro.com:8080/J4757g67/G4757j67/110251
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="national geographic hd" tvg-logo="http://daleplay.club:8080/images/0e471d7dd56a9dae2f530e1c12e7661c.png" group-title="(TV) ESPAÑA",NATIONAL GEOGRAPHIC HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110252
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="national geographic fhd" tvg-logo="http://latinoamericatv.vip:8080/images/0e471d7dd56a9dae2f530e1c12e7661c.png" group-title="(TV) ESPAÑA",NATIONAL GEOGRAPHIC FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110253
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="national geographic wild" tvg-logo="http://latinoamericatv.vip:8080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="(TV) ESPAÑA",NATIONAL GEOGRAPHIC WILD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110254
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="national geografic wild hd" tvg-logo="http://latinoamericatv.vip:8080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="(TV) ESPAÑA",NATIONAL GEOGRAFIC WILD HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110255
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="national geographic wild fhd" tvg-logo="http://daleplaypro.com:8080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="(TV) ESPAÑA",NATIONAL GEOGRAPHIC WILD FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110256
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="discovery channel" tvg-logo="http://daleplaypro.com:8080/images/8170d568dffb2c5ada503ecd57ccbb6b.png" group-title="(TV) ESPAÑA",DISCOVERY CHANNEL
+http://daleplaypro.com:8080/J4757g67/G4757j67/110257
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="discovery hd" tvg-logo="http://daleplaypro.com:8080/images/8170d568dffb2c5ada503ecd57ccbb6b.png" group-title="(TV) ESPAÑA",DISCOVERY HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110258
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="discovery channel fhd" tvg-logo="http://daleplaypro.com:8080/images/8170d568dffb2c5ada503ecd57ccbb6b.png" group-title="(TV) ESPAÑA",DISCOVERY CHANNEL FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110259
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="dmax" tvg-logo="http://daleplaypro.com:8080/images/b86d6c715b67b3d0f00db4d2840fc76f.png" group-title="(TV) ESPAÑA",DMAX
+http://daleplaypro.com:8080/J4757g67/G4757j67/110260
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="odisea" tvg-logo="http://daleplaypro.com:8080/images/831576acd585fbe847690893b643f0db.png" group-title="(TV) ESPAÑA",ODISEA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110261
+#EXTINF:-1 tvg-name="odisea hd" tvg-logo="http://latinoamericatv.vip:8080/images/831576acd585fbe847690893b643f0db.png" group-title="(TV) ESPAÑA",ODISEA HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110262
+#EXTINF:-1 tvg-name="odisea fhd" tvg-logo="http://daleplay.club:8080/images/831576acd585fbe847690893b643f0db.png" group-title="(TV) ESPAÑA",ODISEA FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110263
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="blaze" tvg-logo="http://daleplay.club:8080/images/10e60a090de0a23e85b3d4a880b22d9c.png" group-title="(TV) ESPAÑA",BLAZE
+http://daleplaypro.com:8080/J4757g67/G4757j67/110264
+#EXTINF:-1 tvg-name="blaze hd" tvg-logo="http://latinoamericatv.vip:8080/images/10e60a090de0a23e85b3d4a880b22d9c.png" group-title="(TV) ESPAÑA",BLAZE HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110265
+#EXTINF:-1 tvg-name="blaze fhd" tvg-logo="http://daleplay.club:8080/images/10e60a090de0a23e85b3d4a880b22d9c.png" group-title="(TV) ESPAÑA",BLAZE FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110266
+#EXTINF:-1 tvg-name="mezzo live full hd" tvg-logo="http://latinoamericatv.vip:8080/images/bbdd2f0e9cbf73e5c826995a10b89091.png" group-title="(TV) ESPAÑA",MEZZO LIVE FULL HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110267
+#EXTINF:-1 tvg-name="::::::::::::::: aficiones :::::::::::::::" tvg-logo="http://latinoamericatv.vip:8080/images/1747d4b2dd4bcd666e2df31563d22dbe.png" group-title="(TV) ESPAÑA",::::::::::::::: AFICIONES :::::::::::::::
+http://daleplaypro.com:8080/J4757g67/G4757j67/110268
+#EXTINF:-1 tvg-name="toros tv" tvg-logo="http://daleplay.club:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="(TV) ESPAÑA",TOROS TV
+http://daleplaypro.com:8080/J4757g67/G4757j67/110269
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="toros hd" tvg-logo="http://daleplaypro.com:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="(TV) ESPAÑA",TOROS HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110270
+#EXTINF:-1 tvg-name="toros tv fhd" tvg-logo="http://daleplay.club:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="(TV) ESPAÑA",TOROS TV FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110271
+#EXTINF:-1 tvg-name="caza y pesca" tvg-logo="http://latinoamericatv.vip:8080/images/41f062a1050a88453c520cf97e29ae04.jpg" group-title="(TV) ESPAÑA",CAZA Y PESCA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110272
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="caza y pesca hd" tvg-logo="http://daleplaypro.com:8080/images/41f062a1050a88453c520cf97e29ae04.jpg" group-title="(TV) ESPAÑA",CAZA Y PESCA HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110273
+#EXTINF:-1 tvg-name="caza y pesca fhd" tvg-logo="http://daleplaypro.com:8080/images/41f062a1050a88453c520cf97e29ae04.jpg" group-title="(TV) ESPAÑA",CAZA Y PESCA FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110274
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="iberalia tv" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="(TV) ESPAÑA",IBERALIA TV
+http://daleplaypro.com:8080/J4757g67/G4757j67/110275
+#EXTINF:-1 tvg-name="cazavision" tvg-logo="http://latinoamericatv.vip:8080/images/872f307a26bb102bdeab31890f232760.png" group-title="(TV) ESPAÑA",CAZAVISION
+http://daleplaypro.com:8080/J4757g67/G4757j67/110276
+#EXTINF:-1 tvg-id="Cazavision" tvg-name="cazavision fhd" tvg-logo="http://daleplay.club:8080/images/872f307a26bb102bdeab31890f232760.png" group-title="(TV) ESPAÑA",CAZAVISION FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110277
+#EXTINF:-1 tvg-name="::::::::::::::: infantiles :::::::::::::::" tvg-logo="http://latinoamericatv.vip:8080/images/1747d4b2dd4bcd666e2df31563d22dbe.png" group-title="(TV) ESPAÑA",::::::::::::::: INFANTILES :::::::::::::::
+http://daleplaypro.com:8080/J4757g67/G4757j67/110278
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="disney" tvg-logo="http://latinoamericatv.vip:8080/images/4db99c9b9554362b3960f44523b6980c.png" group-title="(TV) ESPAÑA",DISNEY
+http://daleplaypro.com:8080/J4757g67/G4757j67/110279
+#EXTINF:-1 tvg-name="disney hd" tvg-logo="http://daleplay.club:8080/images/4db99c9b9554362b3960f44523b6980c.png" group-title="(TV) ESPAÑA",DISNEY HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110280
+#EXTINF:-1 tvg-name="disney fhd" tvg-logo="http://latinoamericatv.vip:8080/images/4db99c9b9554362b3960f44523b6980c.png" group-title="(TV) ESPAÑA",DISNEY FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110281
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="disney channel hd" tvg-logo="http://daleplay.club:8080/images/bb8f34562e38dd39fddc3f8900b76350.png" group-title="(TV) ESPAÑA",DISNEY CHANNEL HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110282
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="nickelodeon hd" tvg-logo="http://daleplay.club:8080/images/7b7556a1b4244de75af6cf37ffa7ac07.png" group-title="(TV) ESPAÑA",NICKELODEON HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110283
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="clan hd" tvg-logo="http://daleplaypro.com:8080/images/38371477140d58e09b8901224bb0c382.png" group-title="(TV) ESPAÑA",CLAN HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110284
+#EXTINF:-1 tvg-name="disney channel" tvg-logo="http://daleplaypro.com:8080/images/bb8f34562e38dd39fddc3f8900b76350.png" group-title="(TV) ESPAÑA",DISNEY CHANNEL
+http://daleplaypro.com:8080/J4757g67/G4757j67/110285
+#EXTINF:-1 tvg-name="disney channel fhd" tvg-logo="http://latinoamericatv.vip:8080/images/bb8f34562e38dd39fddc3f8900b76350.png" group-title="(TV) ESPAÑA",DISNEY CHANNEL FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110286
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="disney junior" tvg-logo="http://daleplaypro.com:8080/images/f3b23b22f7d0803b4170d415df30860a.png" group-title="(TV) ESPAÑA",DISNEY JUNIOR
+http://daleplaypro.com:8080/J4757g67/G4757j67/110287
+#EXTINF:-1 tvg-id="I292.18279.schedulesdirect.org" tvg-name="disney xd" tvg-logo="http://daleplay.club:8080/images/cdeeafbf75d0756deafe04c647cb47be.png" group-title="(TV) ESPAÑA",DISNEY XD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110288
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="nick junior" tvg-logo="http://daleplaypro.com:8080/images/57f6f526c0a95af828613d43dac5cad0.png" group-title="(TV) ESPAÑA",NICK JUNIOR
+http://daleplaypro.com:8080/J4757g67/G4757j67/110289
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="clan tve" tvg-logo="http://latinoamericatv.vip:8080/images/2a224d8b27e83902997d80ebe8d7f09e.png" group-title="(TV) ESPAÑA",CLAN TVE
+http://daleplaypro.com:8080/J4757g67/G4757j67/110290
+#EXTINF:-1 tvg-name="canal panda" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/08/Canal_Panda_2015.png" group-title="(TV) ESPAÑA",CANAL PANDA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110291
+#EXTINF:-1 tvg-name="nickelodeon fhd" tvg-logo="http://daleplay.club:8080/images/7b7556a1b4244de75af6cf37ffa7ac07.png" group-title="(TV) ESPAÑA",NICKELODEON FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110292
+#EXTINF:-1 tvg-name="boing sd" tvg-logo="http://daleplaypro.com:8080/images/77a3eb5fb7bd8e418593ed0eb110edd2.png" group-title="(TV) ESPAÑA",BOING SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110293
+#EXTINF:-1 tvg-id="BOING" tvg-name="boing fhd" tvg-logo="http://latinoamericatv.vip:8080/images/77a3eb5fb7bd8e418593ed0eb110edd2.png" group-title="(TV) ESPAÑA",BOING FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110294
+#EXTINF:-1 tvg-name="tv galicia" tvg-logo="http://daleplay.club:8080/images/1bfafbc77238b016cdf978c90880326e.png" group-title="(TV) ESPAÑA",TV GALICIA
+http://daleplaypro.com:8080/J4757g67/G4757j67/110295
+#EXTINF:-1 tvg-id="TVGA" tvg-name="tv galicia hd" tvg-logo="http://latinoamericatv.vip:8080/images/1bfafbc77238b016cdf978c90880326e.png" group-title="(TV) ESPAÑA",TV GALICIA HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110296
+#EXTINF:-1 tvg-name="extremadura tv" tvg-logo="http://latinoamericatv.vip:8080/images/5255698f328b8b7a5038e89cd0a11326.png" group-title="(TV) ESPAÑA",EXTREMADURA TV
+http://daleplaypro.com:8080/J4757g67/G4757j67/110298
+#EXTINF:-1 tvg-name="telemadrid hd" tvg-logo="http://127.0.0.1/" group-title="(TV) ESPAÑA",TELEMADRID HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/110299
+#EXTINF:-1 tvg-name="tv 13" tvg-logo="http://latinoamericatv.vip:8080/images/69dd976ff4b7a38c15097436b4e7c6f0.png" group-title="(TV) ESPAÑA",TV 13
+http://daleplaypro.com:8080/J4757g67/G4757j67/110300
+#EXTINF:-1 tvg-name="andalucia tv" tvg-logo="http://latinoamericatv.vip:8080/images/63d56a038c0f7230460c26d542d47bce.png" group-title="(TV) ESPAÑA",ANDALUCIA TV
+http://daleplaypro.com:8080/J4757g67/G4757j67/110301
+#EXTINF:-1 tvg-id="CanalSurHD" tvg-name="canal sur" tvg-logo="http://daleplaypro.com:8080/images/429d134af8a93a4e41eaf84cd95b5338.png" group-title="(TV) ESPAÑA",CANAL SUR
+http://daleplaypro.com:8080/J4757g67/G4757j67/110302
+#EXTINF:-1 tvg-name="canal orbe 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/1280px-Canal_Orbe_21_logo.svg.png" group-title="(TV) ESPAÑA",CANAL ORBE 21
+http://daleplaypro.com:8080/J4757g67/G4757j67/110303
+#EXTINF:-1 tvg-name="││dazn f1 hd" tvg-logo="http://daleplaypro.com:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="ZONA | DAZN",││DAZN F1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/124763
+#EXTINF:-1 tvg-name="││dazn 1││ movistar op1  [fhd]" tvg-logo="http://daleplay.club:8080/images/10cffb81c3df4a36081e6a9cc2f110d9.png" group-title="ZONA | DAZN",││DAZN 1││ MOVISTAR OP1  [FHD]
+http://daleplaypro.com:8080/J4757g67/G4757j67/124764
+#EXTINF:-1 tvg-name="││dazn f1││ op1" tvg-logo="http://daleplay.club:8080/images/340b9b4eece1e82a2fadcdee529dd457.png" group-title="ZONA | DAZN",││DAZN F1││ OP1
+http://daleplaypro.com:8080/J4757g67/G4757j67/124765
+#EXTINF:-1 tvg-name="││dazn 4 vip││op1 [fhd]" tvg-logo="http://daleplay.club:8080/images/10cffb81c3df4a36081e6a9cc2f110d9.png" group-title="ZONA | DAZN",││DAZN 4 VIP││OP1 [FHD]
+http://daleplaypro.com:8080/J4757g67/G4757j67/124767
+#EXTINF:-1 tvg-name="││dazn 3 vip││ op1  [fhd]" tvg-logo="http://daleplaypro.com:8080/images/10cffb81c3df4a36081e6a9cc2f110d9.png" group-title="ZONA | DAZN",││DAZN 3 VIP││ OP1  [FHD]
+http://daleplaypro.com:8080/J4757g67/G4757j67/124768
+#EXTINF:-1 tvg-name="uk | sky sports f1 fhd" tvg-logo="http://platinumxmedia.xyz:8080/images/395321703a39204238d3d835edfdfb3c.png" group-title="ZONA | FORMULA 1",UK | Sky Sports F1 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/125361
+#EXTINF:-1 tvg-name="uk | sky sports f1 hd" tvg-logo="http://platinumxmedia.xyz:8080/images/395321703a39204238d3d835edfdfb3c.png" group-title="ZONA | FORMULA 1",UK | Sky Sports F1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/125362
+#EXTINF:-1 tvg-name="dazn movistar  f1" tvg-logo="http://xtitan.xyz:2082/images/f90943d4b4f2f41184dbc3092e09a53b.png" group-title="ZONA | FORMULA 1",DAZN MOVISTAR  F1
+http://daleplaypro.com:8080/J4757g67/G4757j67/125363
+#EXTINF:-1 tvg-name="dazn movistar f1 hd" tvg-logo="http://daleplay.club:8080/images/f90943d4b4f2f41184dbc3092e09a53b.png" group-title="ZONA | FORMULA 1",DAZN MOVISTAR F1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/125364
+#EXTINF:-1 tvg-name="dazn movistar f1 fhd" tvg-logo="http://daleplay.club:8080/images/f90943d4b4f2f41184dbc3092e09a53b.png" group-title="ZONA | FORMULA 1",DAZN MOVISTAR F1 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/125365
+#EXTINF:-1 tvg-name="dazn movistar f1 4k" tvg-logo="http://daleplay.club:8080/images/f90943d4b4f2f41184dbc3092e09a53b.png" group-title="ZONA | FORMULA 1",DAZN MOVISTAR F1 4K
+http://daleplaypro.com:8080/J4757g67/G4757j67/125366
+#EXTINF:-1 tvg-name="[fr] canal+ f1 hd" tvg-logo="http://127.0.0.1/" group-title="ZONA | FORMULA 1",[FR] Canal+ F1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/125373
+#EXTINF:-1 tvg-name="bein sport ñ hd" tvg-logo="http://daleplaypro.com:8080/images/76c778e94e0d3a8557c66207b737d473.png" group-title="ZONA | BEIN SPORTS",BEIN SPORT Ñ HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/143362
+#EXTINF:-1 tvg-name="bein sports la liga" tvg-logo="http://daleplay.club:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="ZONA | BEIN SPORTS",BEIN SPORTS LA LIGA
+http://daleplaypro.com:8080/J4757g67/G4757j67/143381
+#EXTINF:-1 tvg-name="dep | bein sports xtra ñ" tvg-logo="http://127.0.0.1/" group-title="ZONA | BEIN SPORTS",DEP | Bein Sports XTRA Ñ
+http://daleplaypro.com:8080/J4757g67/G4757j67/143389
+#EXTINF:-1 tvg-name="dep | bein sports ñ hd op 2" tvg-logo="http://127.0.0.1/" group-title="ZONA | BEIN SPORTS",DEP | Bein Sports Ñ HD OP 2
+http://daleplaypro.com:8080/J4757g67/G4757j67/143392
+#EXTINF:-1 tvg-id="MovistarLaLiga1.es" tvg-name="es | m+la liga 1 hd" tvg-logo="http://daleplaypro.com:8080/images/dd3afef83c6e34771dc3ec157b978e25.png" group-title="ES | LA LIGA",ES | M+LA LIGA 1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144025
+#EXTINF:-1 tvg-id="MovistarLaLiga1.es" tvg-name="es | m+la liga 1 fhd" tvg-logo="http://daleplaypro.com:8080/images/dd3afef83c6e34771dc3ec157b978e25.png" group-title="ES | LA LIGA",ES | M+LA LIGA 1 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144026
+#EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-name="es | m+la liga 2 hd" tvg-logo="http://daleplaypro.com:8080/images/dd3afef83c6e34771dc3ec157b978e25.png" group-title="ES | LA LIGA",ES | M+LA LIGA 2 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144027
+#EXTINF:-1 tvg-id="I1050.104324.schedulesdirect.org" tvg-name="es | sky la liga hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa5UUXsyCgolU7RT1yfntrDbYcMC6L1-p4JA&usqp=CAU" group-title="ES | LA LIGA",ES | SKY LA LIGA HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144029
+#EXTINF:-1 tvg-id="SkySports1.mx" tvg-name="es | sky la liga op b" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa5UUXsyCgolU7RT1yfntrDbYcMC6L1-p4JA&usqp=CAU" group-title="ES | LA LIGA",ES | SKY LA LIGA OP B
+http://daleplaypro.com:8080/J4757g67/G4757j67/144030
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="es | la liga tv bar sd" tvg-logo="http://daleplaypro.com:8080/images/659be3dbd517223e32f729858af604b7.png" group-title="ES | LA LIGA",ES | LA LIGA TV BAR SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144031
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="es | la liga tv bar hd" tvg-logo="http://daleplaypro.com:8080/images/659be3dbd517223e32f729858af604b7.png" group-title="ES | LA LIGA",ES | LA LIGA TV BAR HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144032
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="es | la liga tv bar fhd" tvg-logo="http://daleplaypro.com:8080/images/659be3dbd517223e32f729858af604b7.png" group-title="ES | LA LIGA",ES | LA LIGA TV BAR FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144034
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="es | dazn la liga hd" tvg-logo="http://daleplaypro.com:8080/images/fb0ccc60384b35ba7b349f290db5cdc9.png" group-title="ES | LA LIGA",ES | DAZN LA LIGA HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144035
+#EXTINF:-1 tvg-name="es | dazn la liga sd" tvg-logo="http://daleplaypro.com:8080/images/fb0ccc60384b35ba7b349f290db5cdc9.png" group-title="ES | LA LIGA",ES | DAZN LA LIGA SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144036
+#EXTINF:-1 tvg-name="es | dazn la liga 2 hd" tvg-logo="http://daleplay.club:8080/images/fb0ccc60384b35ba7b349f290db5cdc9.png" group-title="ES | LA LIGA",ES | DAZN LA LIGA 2 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144037
+#EXTINF:-1 tvg-name="es | dazn la liga 2 sd" tvg-logo="http://daleplay.club:8080/images/fb0ccc60384b35ba7b349f290db5cdc9.png" group-title="ES | LA LIGA",ES | DAZN LA LIGA 2 SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144038
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="es | la liga smartbank hd" tvg-logo="http://daleplaypro.com:8080/images/c96bc52ca2630a500a26f51127f77e45.png" group-title="ES | LA LIGA",ES | LA LIGA SMARTBANK HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144039
+#EXTINF:-1 tvg-name="es | la liga smartbank 2 hd" tvg-logo="http://daleplaypro.com:8080/images/c96bc52ca2630a500a26f51127f77e45.png" group-title="ES | LA LIGA",ES | LA LIGA SMARTBANK 2 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144040
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="es | m+liga de campeones" tvg-logo="http://daleplay.club:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="CHAMPIONS LEAGUE",ES | M+LIGA DE CAMPEONES
+http://daleplaypro.com:8080/J4757g67/G4757j67/144048
+#EXTINF:-1 tvg-name="es | m+deportes hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNldy3JyfrrWQzspIJ0VMTCkahqDrNa28nA&usqp=CAU" group-title="ES | LA LIGA",ES | M+DEPORTES HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144049
+#EXTINF:-1 tvg-name="es | m+deportes sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNldy3JyfrrWQzspIJ0VMTCkahqDrNa28nA&usqp=CAU" group-title="ES | LA LIGA",ES | M+DEPORTES SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144050
+#EXTINF:-1 tvg-name="es | m+deportes 1 hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNldy3JyfrrWQzspIJ0VMTCkahqDrNa28nA&usqp=CAU" group-title="ES | LA LIGA",ES | M+DEPORTES 1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144051
+#EXTINF:-1 tvg-name="es | m+deportes 1 sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNldy3JyfrrWQzspIJ0VMTCkahqDrNa28nA&usqp=CAU" group-title="ES | LA LIGA",ES | M+DEPORTES 1 SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144052
+#EXTINF:-1 tvg-name="es | m+deportes 2 hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNldy3JyfrrWQzspIJ0VMTCkahqDrNa28nA&usqp=CAU" group-title="ES | LA LIGA",ES | M+DEPORTES 2 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144053
+#EXTINF:-1 tvg-name="es | m+deportes 2 sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNldy3JyfrrWQzspIJ0VMTCkahqDrNa28nA&usqp=CAU" group-title="ES | LA LIGA",ES | M+DEPORTES 2 SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144054
+#EXTINF:-1 tvg-name="es | m+deportes 3 hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNldy3JyfrrWQzspIJ0VMTCkahqDrNa28nA&usqp=CAU" group-title="ES | LA LIGA",ES | M+DEPORTES 3 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144055
+#EXTINF:-1 tvg-name="es | m+deportes 3 sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNldy3JyfrrWQzspIJ0VMTCkahqDrNa28nA&usqp=CAU" group-title="ES | LA LIGA",ES | M+DEPORTES 3 SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144056
+#EXTINF:-1 tvg-name="es | dazn f1 hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlTOrY2gg4qoTBfs5g32_3CLBica516zwtw&usqp=CAU" group-title="ZONA | FORMULA 1",ES | DAZN F1 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144057
+#EXTINF:-1 tvg-name="es | bein sport ñ hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-W8JcO02wpp2C50qfOzUzR7pn4gkcGhNZgg&usqp=CAU" group-title="ES | LA LIGA",ES | BEIN SPORT Ñ HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144061
+#EXTINF:-1 tvg-name="es | bein sport ñ sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-W8JcO02wpp2C50qfOzUzR7pn4gkcGhNZgg&usqp=CAU" group-title="ES | LA LIGA",ES | BEIN SPORT Ñ SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144062
+#EXTINF:-1 tvg-name="es | m+ golf sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWnm7F2O8L6S-tbg6JjZ1_n8_SCqu-NNXYw&usqp=CAU" group-title="(TV) DEPORTE EUROPEO",ES | M+ GOLF SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144068
+#EXTINF:-1 tvg-name="es | teledeporte hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNiQ8xvWC5hga3fhg3gGxzy6RgFEjVdn8eA&usqp=CAU" group-title="(TV) DEPORTE EUROPEO",ES | TELEDEPORTE HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144069
+#EXTINF:-1 tvg-name="es | teledeporte sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNiQ8xvWC5hga3fhg3gGxzy6RgFEjVdn8eA&usqp=CAU" group-title="(TV) DEPORTE EUROPEO",ES | TELEDEPORTE SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144070
+#EXTINF:-1 tvg-name="es | gol hd" tvg-logo="http://daleplay.club:8080/images/03565e129d2a289825d17ddf28899583.png" group-title="ES | LA LIGA",ES | GOL HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144071
+#EXTINF:-1 tvg-name="es | gol sd" tvg-logo="http://daleplaypro.com:8080/images/03565e129d2a289825d17ddf28899583.png" group-title="ES | LA LIGA",ES | GOL SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144072
+#EXTINF:-1 tvg-name="es | nba network.sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASw4CRweSfb9FbHuW2vMhTWMGf1tAZ_4zNA&usqp=CAU" group-title="(TV) DEPORTE EUROPEO",ES | NBA NETWORK.SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144074
+#EXTINF:-1 tvg-name="es | nba tv hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVp-1Zq5S7tl94sYaivAzzdmmsnrDQBj2AiQ&usqp=CAU" group-title="(TV) DEPORTE EUROPEO",ES | NBA TV HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144075
+#EXTINF:-1 tvg-name="es | nba tv sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVp-1Zq5S7tl94sYaivAzzdmmsnrDQBj2AiQ&usqp=CAU" group-title="(TV) DEPORTE EUROPEO",ES | NBA TV SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/144076
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="es | m+liga de campeones hd" tvg-logo="http://daleplay.club:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="CHAMPIONS LEAGUE",ES | M+LIGA DE CAMPEONES HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/147931
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="es | m+liga de campeones fhd" tvg-logo="http://daleplaypro.com:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="CHAMPIONS LEAGUE",ES | M+LIGA DE CAMPEONES FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/147932
+#EXTINF:-1 tvg-name="es | m+liga de campeones hd op b" tvg-logo="http://daleplaypro.com:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="CHAMPIONS LEAGUE",ES | M+LIGA DE CAMPEONES HD OP B
+http://daleplaypro.com:8080/J4757g67/G4757j67/147935
+#EXTINF:-1 tvg-name="es | m+liga de campeones fhd op b" tvg-logo="http://daleplaypro.com:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="CHAMPIONS LEAGUE",ES | M+LIGA DE CAMPEONES FHD OP B
+http://daleplaypro.com:8080/J4757g67/G4757j67/147936
+#EXTINF:-1 tvg-name="es | m+liga de campeones 2 fhd" tvg-logo="http://daleplay.club:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="CHAMPIONS LEAGUE",ES | M+LIGA DE CAMPEONES 2 FHD
+http://daleplaypro.com:8080/J4757g67/G4757j67/147937
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="es | m+liga de campeones 2 sd" tvg-logo="http://daleplaypro.com:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="CHAMPIONS LEAGUE",ES | M+LIGA DE CAMPEONES 2 SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/147940
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="es | m+liga de campeones 3" tvg-logo="http://daleplaypro.com:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="CHAMPIONS LEAGUE",ES | M+LIGA DE CAMPEONES 3
+http://daleplaypro.com:8080/J4757g67/G4757j67/147941
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="es | m+liga de campeones 3 hd" tvg-logo="http://daleplaypro.com:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="CHAMPIONS LEAGUE",ES | M+LIGA DE CAMPEONES 3 HD
+http://daleplaypro.com:8080/J4757g67/G4757j67/147944
+#EXTINF:-1 tvg-name="es | m+liga de campeones 4" tvg-logo="http://daleplaypro.com:8080/images/9ad36f7c8b03ac87dd8ba348539ce67b.png" group-title="CHAMPIONS LEAGUE",ES | M+LIGA DE CAMPEONES 4
+http://daleplaypro.com:8080/J4757g67/G4757j67/158460
+#EXTINF:-1 tvg-name="la liga smartbank 3 sd" tvg-logo="http://daleplaypro.com:8080/images/c96bc52ca2630a500a26f51127f77e45.png" group-title="ES | LA LIGA",LA LIGA SMARTBANK 3 SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/149533
+#EXTINF:-1 tvg-name="movistar supercopa sd" tvg-logo="http://daleplaypro.com:8080/images/96b82413caa8e7acec3767c872ea241a.png" group-title="ES | LA LIGA",MOVISTAR SUPERCOPA SD
+http://daleplaypro.com:8080/J4757g67/G4757j67/161210
+#EXTINF:-1 tvg-name="movistar supercopa hd 720p" tvg-logo="http://daleplaypro.com:8080/images/96b82413caa8e7acec3767c872ea241a.png" group-title="ES | LA LIGA",MOVISTAR SUPERCOPA HD 720P
+http://daleplaypro.com:8080/J4757g67/G4757j67/161211
+#EXTINF:-1 tvg-name="movistar supercopa hd 1080p (h.265)" tvg-logo="http://daleplaypro.com:8080/images/96b82413caa8e7acec3767c872ea241a.png" group-title="ES | LA LIGA",MOVISTAR SUPERCOPA HD 1080P (H.265)
+http://daleplaypro.com:8080/J4757g67/G4757j67/161213
