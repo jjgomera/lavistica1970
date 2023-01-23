@@ -1457,3 +1457,57 @@ http://txm1.flysat.live:2089/152067508065276/152022654820017/210129
 http://txm1.flysat.live:2089/152067508065276/152022654820017/210128
 #EXTINF:-1,|MOVIES| TNT AFRICA
 http://txm1.flysat.live:2089/152067508065276/152022654820017/210127
+
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="canal hollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png" group-title="CINE",Canal Hollywood
+http://azplay.ddns.me:33200/6754091/6902387/29483
+#EXTINF:-1 tvg-name="da*zn 1" tvg-logo="https://i.ibb.co/10Z8KvD/2560px-DAZN-1-Logo-svg.png" group-title="DEPORTES",DA*ZN 1
+http://azplay.ddns.me:33200/6754091/6902387/53500
+#EXTINF:-1 tvg-name="da*zn 1 hd" tvg-logo="https://i.ibb.co/10Z8KvD/2560px-DAZN-1-Logo-svg.png" group-title="DEPORTES",DA*ZN 1 HD
+http://azplay.ddns.me:33200/6754091/6902387/51263
+#EXTINF:-1 tvg-name="da*zn 2" tvg-logo="https://i.ibb.co/gFySbMw/Sin-t-tulo.jpg" group-title="DEPORTES",DA*ZN 2
+http://azplay.ddns.me:33200/6754091/6902387/53501
+#EXTINF:-1 tvg-name="da*zn 2 hd" tvg-logo="https://i.ibb.co/gFySbMw/Sin-t-tulo.jpg" group-title="DEPORTES",DA*ZN 2 HD
+http://azplay.ddns.me:33200/6754091/6902387/51264
+#EXTINF:-1 tvg-name="da*zn 3" tvg-logo="https://i.ibb.co/Xbt6BwT/Sin-t-tulo2.jpg" group-title="DEPORTES",DA*ZN 3
+http://azplay.ddns.me:33200/6754091/6902387/51265
+#EXTINF:-1 tvg-name="da*zn 4" tvg-logo="https://i.ibb.co/hmtwHjC/Sin-t-tulo4.jpg" group-title="DEPORTES",DA*ZN 4
+http://azplay.ddns.me:33200/6754091/6902387/51266
+#EXTINF:-1 tvg-name="da*zn f1" tvg-logo="https://www.actualidadmotor.com/wp-content/uploads/2021/03/dazn-f1-logo.jpg" group-title="DEPORTES",DA*ZN F1
+http://azplay.ddns.me:33200/6754091/6902387/53418
+#EXTINF:-1 tvg-name="da*zn la liga" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES",DA*ZN LA LIGA
+http://azplay.ddns.me:33200/6754091/6902387/53496
+#EXTINF:-1 tvg-name="da*zn la liga hd" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES",DA*ZN LA LIGA HD
+http://azplay.ddns.me:33200/6754091/6902387/53497
+#EXTINF:-1 tvg-name="da*zn la liga 2" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES",DA*ZN LA LIGA 2
+http://azplay.ddns.me:33200/6754091/6902387/53498
+#EXTINF:-1 tvg-name="da*zn la liga 2 hd" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES",DA*ZN LA LIGA 2 HD
+http://azplay.ddns.me:33200/6754091/6902387/53499
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="eu*ro*sports 1" group-title="DEPORTES",EU*RO*SPORTS 1
+http://azplay.ddns.me:33200/6754091/6902387/51159
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="eu*ro*sports 1 hd" group-title="DEPORTES",EU*RO*SPORTS 1 HD
+http://azplay.ddns.me:33200/6754091/6902387/51367
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="eu*ro*sports 2" tvg-logo="http://vfes-images.ott.kaltura.com/351be6f3a78f44b6b4673c0b3e3ad570_288X162.png" group-title="DEPORTES",EU*RO*SPORTS 2
+http://azplay.ddns.me:33200/6754091/6902387/3424
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="eu*ro*sports 2 hd" tvg-logo="http://vfes-images.ott.kaltura.com/351be6f3a78f44b6b4673c0b3e3ad570_288X162.png" group-title="DEPORTES",EU*RO*SPORTS 2 HD
+http://azplay.ddns.me:33200/6754091/6902387/51368
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="formula 1 hd" tvg-logo="https://soymotor.com/sites/default/files/styles/mega/public/imagenes/noticia/dazn-movistar-f1-television-2021-soymtoor-2.jpg" group-title="DEPORTES",Formula 1 HD
+http://azplay.ddns.me:33200/6754091/6902387/38487
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="movistar golf hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="DEPORTES",Movistar Golf HD
+http://azplay.ddns.me:33200/6754091/6902387/3103
+#EXTINF:-1 tvg-name="movistar la liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar La Liga
+http://azplay.ddns.me:33200/6754091/6902387/50584
+#EXTINF:-1 tvg-name="movistar liga de campeones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="DEPORTES",Movistar Liga De Campeones
+http://azplay.ddns.me:33200/6754091/6902387/49752
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="teledeporte" tvg-logo="https://www.chillglobal.com/images/channels/teledeporte-1432657347.jpg" group-title="DEPORTES",Teledeporte
+http://azplay.ddns.me:33200/6754091/6902387/49493
+#EXTINF:-1 tvg-id="I33.91183.schedulesdirect.org" tvg-name="movistar acción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/350px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA",Movistar Acción
+http://azplay.ddns.me:33200/6754091/6902387/2524
+#EXTINF:-1 tvg-id="I34.91184.schedulesdirect.org" tvg-name="movistar comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/640px-Movistar_Comedia.svg.png" group-title="ESPAÑA",Movistar Comedia
+http://azplay.ddns.me:33200/6754091/6902387/2525
+#EXTINF:-1 tvg-id="I35.87011.schedulesdirect.org" tvg-name="movistar drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1134px-Movistar_Drama.svg.png" group-title="ESPAÑA",Movistar Drama
+http://azplay.ddns.me:33200/6754091/6902387/2527
+#EXTINF:-1 tvg-id="I30.102940.schedulesdirect.org" tvg-name="movistar estrenos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1783px-Movistar_Estrenos.svg.png" group-title="ESPAÑA",Movistar Estrenos
+http://azplay.ddns.me:33200/6754091/6902387/2526
+#EXTINF:-1 tvg-id="I11.91195.schedulesdirect.org" tvg-name="movistar series" tvg-logo="https://movistar.cr/documents/294678201/295060312/83_Icono.png" group-title="ESPAÑA",Movistar Series
+http://azplay.ddns.me:33200/6754091/6902387/2522
