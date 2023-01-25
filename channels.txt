@@ -1456,7 +1456,6 @@ http://txm1.flysat.live:2089/152067508065276/152022654820017/210128
 #EXTINF:-1,|MOVIES| TNT AFRICA
 http://txm1.flysat.live:2089/152067508065276/152022654820017/210127
 
-#EXTM3U
 #EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="canal hollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png" group-title="CINE",Canal Hollywood
 http://azplay.ddns.me:33200/6754091/6902387/29483
 #EXTINF:-1 tvg-name="da*zn 1" tvg-logo="https://i.ibb.co/10Z8KvD/2560px-DAZN-1-Logo-svg.png" group-title="DEPORTES",DA*ZN 1
