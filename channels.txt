@@ -316,7 +316,6 @@ http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ELLAS" tvg-logo="https://i.imgur.com/OJaEosP.png" ,#Ellas 720
 http://127.0.0.1:6878/ace/getstream?id=71e9e4c66a271ff58beb76792e01eeb6a1dde746
 
-#EXTM3U
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="es | movistar series hd." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEBpSx8GCgWih0oHHoyE1qhtxqyc-OKa_4Q&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",ES | MOVISTAR SERIES HD.
 http://daleplaypro.com:8080/J4757g67/G4757j67/13432
 #EXTINF:-1 tvg-name="es | movistar comedia hd." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzHhEwdP186L048fKS0P9yC45cf93Hpsq7RQ&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",ES | MOVISTAR COMEDIA HD.
@@ -908,7 +907,6 @@ http://daleplaypro.com:8080/J4757g67/G4757j67/161211
 #EXTINF:-1 tvg-name="movistar supercopa hd 1080p (h.265)" tvg-logo="http://daleplaypro.com:8080/images/96b82413caa8e7acec3767c872ea241a.png" group-title="ES | LA LIGA",MOVISTAR SUPERCOPA HD 1080P (H.265)
 http://daleplaypro.com:8080/J4757g67/G4757j67/161213
 
-#EXTM3U
 #EXTINF:-1,MOVISTAR SERIES HD
 http://txm1.flysat.live:2089/152067508065276/152022654820017/268508
 #EXTINF:-1,MOVISTAR SERIES 2 HD
