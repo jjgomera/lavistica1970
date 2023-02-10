@@ -1866,3 +1866,517 @@ http://txm1.flysat.live:2089/152067508065276/152022654820017/210141
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="|SPORTSUPERSPORT ACTION HD" tvg-logo="" group-title="ESPANA 2",|SPORTSUPERSPORT ACTION HD
 http://txm1.flysat.live:2089/152067508065276/152022654820017/210140
+
+
+#EXTINF:-1 tvg-name="es: dazn laliga 1" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="SPAIN SPORT",ES: DAZN LALIGA 1
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25125.ts
+#EXTINF:-1 tvg-name="es: dazn laliga 2" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga_2.png" group-title="SPAIN SPORT",ES: DAZN LALIGA 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25127.ts
+#EXTINF:-1 tvg-name="es: m+ laliga smartbanktv" tvg-logo="https://docdog.top/logo/countries/spain/LaLiga_SmartbankTV.png" group-title="SPAIN SPORT",ES: M+ Laliga SmartBankTV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25128.ts
+#EXTINF:-1 tvg-name="es: dazn 1" tvg-logo="https://docdog.top/logo/countries/spain/dazn-1-es.png" group-title="SPAIN SPORT",ES: DAZN 1
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5589.ts
+#EXTINF:-1 tvg-name="es: dazn 2" tvg-logo="https://docdog.top/logo/countries/spain/dazn-2-es.png" group-title="SPAIN SPORT",ES: DAZN 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5590.ts
+#EXTINF:-1 tvg-name="es: dazn 3" tvg-logo="https://docdog.top/logo/countries/spain/dazn-3-es.png" group-title="SPAIN SPORT",ES: DAZN 3
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5591.ts
+#EXTINF:-1 tvg-name="es: dazn 4" tvg-logo="https://docdog.top/logo/countries/spain/dazn-4-es.png" group-title="SPAIN SPORT",ES: DAZN 4
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5592.ts
+#EXTINF:-1 tvg-name="es: dazn f1" tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="SPAIN SPORT",ES: DAZN F1
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5593.ts
+#EXTINF:-1 tvg-name="es: m+ laliga" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5758.ts
+#EXTINF:-1 tvg-name="es: m+ laliga 1 (match time)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-1-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 1 (MATCH TIME)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5650.ts
+#EXTINF:-1 tvg-name="es: m+ laliga 2 (match time)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-2-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 2 (MATCH TIME)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5651.ts
+#EXTINF:-1 tvg-name="es: m+ laliga 3 (match time)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-3-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 3 (MATCH TIME)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5652.ts
+#EXTINF:-1 tvg-name="es: m+ laliga 4 (match time)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-4-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 4 (MATCH TIME)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5653.ts
+#EXTINF:-1 tvg-name="es: m+ laliga 5 (match time)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-5-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 5 (MATCH TIME)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5654.ts
+#EXTINF:-1 tvg-name="es: m+ laliga 6 (match time)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-6-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 6 (MATCH TIME)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5655.ts
+#EXTINF:-1 tvg-name="es: m+ laliga 7 (match time)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-7-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 7 (MATCH TIME)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5656.ts
+#EXTINF:-1 tvg-name="es: m+ laliga 8 (match time)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-8-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 8 (MATCH TIME)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5657.ts
+#EXTINF:-1 tvg-name="es: m+ laliga 9 (match time)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-9-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 9 (MATCH TIME)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5658.ts
+#EXTINF:-1 tvg-name="es: m+ laliga 10 (match time)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-10-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA 10 (MATCH TIME)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5659.ts
+#EXTINF:-1 tvg-name="es: m+ liga de campeones" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5671.ts
+#EXTINF:-1 tvg-name="es: m+ liga de campeones 2" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_2.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5663.ts
+#EXTINF:-1 tvg-name="es: m+ liga de campeones 3" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_3.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 3
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5664.ts
+#EXTINF:-1 tvg-name="es: m+ liga de campeones 4" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_4.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 4
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5665.ts
+#EXTINF:-1 tvg-name="es: m+ liga de campeones 5" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_5.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 5
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5666.ts
+#EXTINF:-1 tvg-name="es: m+ liga de campeones 6" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_6.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 6
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5667.ts
+#EXTINF:-1 tvg-name="es: m+ liga de campeones 7" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_7.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 7
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5668.ts
+#EXTINF:-1 tvg-name="es: m+ liga de campeones 8" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_8.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 8
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5669.ts
+#EXTINF:-1 tvg-name="es: m+ liga de campeones 9" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_9.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 9
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5670.ts
+#EXTINF:-1 tvg-name="es: m+ liga de campeones 10" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_10.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 10
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5685.ts
+#EXTINF:-1 tvg-name="es: m+ liga de campeones 11" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_11.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 11
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5686.ts
+#EXTINF:-1 tvg-name="es: m+ liga de campeones 12" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_12.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 12
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5687.ts
+#EXTINF:-1 tvg-name="es: m+ liga de campeones 13" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_13.png" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 13
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29360.ts
+#EXTINF:-1 tvg-name="es: gol mundial (supercopa)" tvg-logo="https://docdog.top/logo/countries/spain/GolMundial.png" group-title="SPAIN SPORT",ES: Gol Mundial (SuperCopa)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/40862.ts
+#EXTINF:-1 tvg-name="es: gol mundial 2" tvg-logo="https://docdog.top/logo/countries/spain/GolMundial.png" group-title="SPAIN SPORT",ES: Gol Mundial 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/49555.ts
+#EXTINF:-1 tvg-name="es: espn deportes" tvg-logo="https://docdog.top/logo/countries/spain/espn.png" group-title="SPAIN SPORT",ES: ESPN DEPORTES
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5605.ts
+#EXTINF:-1 tvg-name="es: eurosport 1" tvg-logo="https://docdog.top/logo/countries/spain/eurosport-1-es.png" group-title="SPAIN SPORT",ES: EUROSPORT 1
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5607.ts
+#EXTINF:-1 tvg-name="es: eurosport 2" tvg-logo="https://docdog.top/logo/countries/spain/eurosport-2-es.png" group-title="SPAIN SPORT",ES: EUROSPORT 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5608.ts
+#EXTINF:-1 tvg-name="es: m+ laligatv bar" tvg-logo="https://docdog.top/logo/countries/spain/LaLigaTVBAR.png" group-title="SPAIN SPORT",ES: M+ LALIGATV BAR
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5661.ts
+#EXTINF:-1 tvg-name="es: bein sports espana" tvg-logo="https://docdog.top/logo/countries/spain/beinsportsenespanol.png" group-title="SPAIN SPORT",ES: BEIN SPORTS ESPANA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/24040.ts
+#EXTINF:-1 tvg-name="es: m+ golf" tvg-logo="https://docdog.top/logo/countries/spain/movistar-golf-es.png" group-title="SPAIN SPORT",ES: M+ GOLF
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5649.ts
+#EXTINF:-1 tvg-name="es: m+ deportes" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5643.ts
+#EXTINF:-1 tvg-name="es: m+ deportes 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-1-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 1
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5638.ts
+#EXTINF:-1 tvg-name="es: m+ deportes 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-2-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5639.ts
+#EXTINF:-1 tvg-name="es: m+ deportes 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-3-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 3
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5640.ts
+#EXTINF:-1 tvg-name="es: m+ deportes 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-4-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 4
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5641.ts
+#EXTINF:-1 tvg-name="es: m+ deportes 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-5-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 5
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5681.ts
+#EXTINF:-1 tvg-name="es: m+ deportes 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-6-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 6
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5682.ts
+#EXTINF:-1 tvg-name="es: m+ deportes 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-7-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 7
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5683.ts
+#EXTINF:-1 tvg-name="es: m+ deportes 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-8-es.png" group-title="SPAIN SPORT",ES: M+ DEPORTES 8
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29667.ts
+#EXTINF:-1 tvg-name="es: antena 3" tvg-logo="https://docdog.top/logo/countries/spain/antena-3-es.png" group-title="SPAIN",ES: ANTENA 3
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5555.ts
+#EXTINF:-1 tvg-name="es: tele cinco" tvg-logo="https://docdog.top/logo/countries/spain/telecinco-es.png" group-title="SPAIN",ES: TELE CINCO
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5734.ts
+#EXTINF:-1 tvg-name="es: la 1" tvg-logo="https://docdog.top/logo/countries/spain/la1.png" group-title="SPAIN",ES: LA 1
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5622.ts
+#EXTINF:-1 tvg-name="es: la 2" tvg-logo="https://docdog.top/logo/countries/spain/la2.png" group-title="SPAIN",ES: LA 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5623.ts
+#EXTINF:-1 tvg-name="es: la sexta" tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="SPAIN",ES: LA SEXTA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5625.ts
+#EXTINF:-1 tvg-name="es: cuatro" tvg-logo="https://docdog.top/logo/countries/spain/cuatro-es.png" group-title="SPAIN",ES: CUATRO
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5588.ts
+#EXTINF:-1 tvg-name="es: fdf" tvg-logo="https://docdog.top/logo/countries/spain/fdf-es.png" group-title="SPAIN",ES: FDF
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5611.ts
+#EXTINF:-1 tvg-name="es: nova" tvg-logo="https://docdog.top/logo/countries/spain/nova-es.png" group-title="SPAIN",ES: NOVA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5723.ts
+#EXTINF:-1 tvg-name="es: energy" tvg-logo="https://docdog.top/logo/countries/spain/energy-es.png" group-title="SPAIN",ES: ENERGY
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5603.ts
+#EXTINF:-1 tvg-name="es: trece" tvg-logo="https://docdog.top/logo/countries/spain/trece-es.png" group-title="SPAIN",ES: TRECE
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5741.ts
+#EXTINF:-1 tvg-name="es: barca tv" tvg-logo="https://docdog.top/logo/countries/spain/barca-tv-es.png" group-title="SPAIN",ES: BARCA TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5560.ts
+#EXTINF:-1 tvg-name="es: horse tv" tvg-logo="https://docdog.top/logo/countries/spain/Horse_TV.png" group-title="SPAIN",ES: Horse TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25936.ts
+#EXTINF:-1 tvg-name="es: m+ ellas #v" tvg-logo="https://docdog.top/logo/countries/spain/M_Ellas_V.png" group-title="SPAIN",ES: M+ ELLAS #V
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29333.ts
+#EXTINF:-1 tvg-name="es: real madrid tv" tvg-logo="https://docdog.top/logo/countries/spain/real-madrid-tv-es.png" group-title="SPAIN",ES: REAL MADRID TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5729.ts
+#EXTINF:-1 tvg-name="es: sevilla fc" tvg-logo="https://docdog.top/logo/countries/spain/SEVILLA_FC.png" group-title="SPAIN",ES: SEVILLA FC
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29340.ts
+#EXTINF:-1 tvg-name="es: tele deporte" tvg-logo="https://docdog.top/logo/countries/spain/teledeporte.png" group-title="SPAIN",ES: TELE DEPORTE
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5735.ts
+#EXTINF:-1 tvg-name="es: m+ #0" tvg-logo="https://docdog.top/logo/countries/spain/M_0.png" group-title="SPAIN",ES: M+ #0
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5546.ts
+#EXTINF:-1 tvg-name="es: 24 horas" tvg-logo="https://docdog.top/logo/countries/spain/24h-es.png" group-title="SPAIN",ES: 24 HORAS
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5550.ts
+#EXTINF:-1 tvg-name="es: a&amp;e" tvg-logo="https://docdog.top/logo/countries/spain/ae.png" group-title="SPAIN",ES: A&AMP;E
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5551.ts
+#EXTINF:-1 tvg-name="es: amc" tvg-logo="https://docdog.top/logo/countries/spain/amc-es.png" group-title="SPAIN",ES: AMC
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5553.ts
+#EXTINF:-1 tvg-name="es: andalucia tv" tvg-logo="https://docdog.top/logo/countries/spain/andalucia-tv-es.png" group-title="SPAIN",ES: ANDALUCIA TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5554.ts
+#EXTINF:-1 tvg-name="es: aragon tv" tvg-logo="https://docdog.top/logo/countries/spain/aragon-tv-es.png" group-title="SPAIN",ES: ARAGON TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5556.ts
+#EXTINF:-1 tvg-name="es: axn" tvg-logo="https://docdog.top/logo/countries/spain/axn-es.png" group-title="SPAIN",ES: AXN
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5557.ts
+#EXTINF:-1 tvg-name="es: axn white" tvg-logo="https://docdog.top/logo/countries/spain/axn-white-es.png" group-title="SPAIN",ES: AXN WHITE
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5558.ts
+#EXTINF:-1 tvg-name="es: be mad" tvg-logo="https://docdog.top/logo/countries/spain/be-mad-tv-es.png" group-title="SPAIN",ES: BE MAD
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5561.ts
+#EXTINF:-1 tvg-name="es: blaze" tvg-logo="https://docdog.top/logo/countries/spain/blaze-es.png" group-title="SPAIN",ES: BLAZE
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5564.ts
+#EXTINF:-1 tvg-name="es: bom cine" tvg-logo="https://docdog.top/logo/countries/spain/bom-cine-es.png" group-title="SPAIN",ES: BOM CINE
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5566.ts
+#EXTINF:-1 tvg-name="es: calle 13" tvg-logo="https://docdog.top/logo/countries/spain/calle-13-es.png" group-title="SPAIN",ES: CALLE 13
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5567.ts
+#EXTINF:-1 tvg-name="es: canal 26" tvg-logo="https://docdog.top/logo/countries/spain/canal26.png" group-title="SPAIN",ES: CANAL 26
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5569.ts
+#EXTINF:-1 tvg-name="es: canal cocina" tvg-logo="https://docdog.top/logo/countries/spain/canal-cocina-es.png" group-title="SPAIN",ES: CANAL COCINA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5570.ts
+#EXTINF:-1 tvg-name="es: canal decasa" tvg-logo="https://docdog.top/logo/countries/spain/decasa-es.png" group-title="SPAIN",ES: CANAL DECASA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5571.ts
+#EXTINF:-1 tvg-name="es: canal sur" tvg-logo="https://docdog.top/logo/countries/spain/Canal_Sur.png" group-title="SPAIN",ES: CANAL SUR
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5575.ts
+#EXTINF:-1 tvg-name="es: canal sur andalucia" tvg-logo="https://docdog.top/logo/countries/spain/Canal_Sur_Andalucia.png" group-title="SPAIN",ES: CANAL SUR ANDALUCIA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5576.ts
+#EXTINF:-1 tvg-name="es: caza y pesca" tvg-logo="https://docdog.top/logo/countries/spain/caza-y-pesca-es.png" group-title="SPAIN",ES: CAZA Y PESCA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5578.ts
+#EXTINF:-1 tvg-name="es: clan" tvg-logo="https://docdog.top/logo/countries/spain/clan-es.png" group-title="SPAIN",ES: CLAN
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5580.ts
+#EXTINF:-1 tvg-name="es: comedy central" tvg-logo="https://docdog.top/logo/countries/spain/comedy-central-es.png" group-title="SPAIN",ES: COMEDY CENTRAL
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5584.ts
+#EXTINF:-1 tvg-name="es: cosmo" tvg-logo="https://docdog.top/logo/countries/spain/cosmo-es.png" group-title="SPAIN",ES: COSMO
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5585.ts
+#EXTINF:-1 tvg-name="es: crime investigation" tvg-logo="https://docdog.top/logo/countries/spain/Crime_investigation.png" group-title="SPAIN",ES: CRIME INVESTIGATION
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5586.ts
+#EXTINF:-1 tvg-name="es: discovery" tvg-logo="https://docdog.top/logo/countries/spain/discovery-channel-es.png" group-title="SPAIN",ES: DISCOVERY
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5594.ts
+#EXTINF:-1 tvg-name="es: baby tv" tvg-logo="https://docdog.top/logo/countries/spain/baby-tv-es.png" group-title="SPAIN",ES: BABY TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5559.ts
+#EXTINF:-1 tvg-name="es: boing" tvg-logo="https://docdog.top/logo/countries/spain/boing-es.png" group-title="SPAIN",ES: BOING
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5565.ts
+#EXTINF:-1 tvg-name="es: canal panda" tvg-logo="https://docdog.top/logo/countries/spain/canal-panda-es.png" group-title="SPAIN",ES: CANAL PANDA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5574.ts
+#EXTINF:-1 tvg-name="es: disney channel" tvg-logo="https://docdog.top/logo/countries/spain/disney-channel-es.png" group-title="SPAIN",ES: DISNEY CHANNEL
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5596.ts
+#EXTINF:-1 tvg-name="es: disney junior" tvg-logo="https://docdog.top/logo/countries/spain/disney-junior-es.png" group-title="SPAIN",ES: DISNEY JUNIOR
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5597.ts
+#EXTINF:-1 tvg-name="es: disney xd" tvg-logo="https://docdog.top/logo/countries/spain/disneyxd.png" group-title="SPAIN",ES: DISNEY XD
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5598.ts
+#EXTINF:-1 tvg-name="es: dreamworks" tvg-logo="https://docdog.top/logo/countries/spain/dreamworks-channel-es.png" group-title="SPAIN",ES: DREAMWORKS
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5602.ts
+#EXTINF:-1 tvg-name="es: nick jr" tvg-logo="https://docdog.top/logo/countries/spain/nick-jr-es.png" group-title="SPAIN",ES: NICK JR
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5720.ts
+#EXTINF:-1 tvg-name="es: nickelodeon" tvg-logo="https://docdog.top/logo/countries/spain/nickelodeon-es.png" group-title="SPAIN",ES: NICKELODEON
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5721.ts
+#EXTINF:-1 tvg-name="es: divinity" tvg-logo="https://docdog.top/logo/countries/spain/divinity-es.png" group-title="SPAIN",ES: DIVINITY
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5599.ts
+#EXTINF:-1 tvg-name="es: dkiss" tvg-logo="https://docdog.top/logo/countries/spain/dkiss-es.png" group-title="SPAIN",ES: DKISS
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5600.ts
+#EXTINF:-1 tvg-name="es: discovery max" tvg-logo="https://docdog.top/logo/countries/spain/dmax-es.png" group-title="SPAIN",ES: DISCOVERY MAX
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5601.ts
+#EXTINF:-1 tvg-name="es: esperanza tv" tvg-logo="https://docdog.top/logo/countries/spain/ESPRANZA_TV.png" group-title="SPAIN",ES: ESPERANZA TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5606.ts
+#EXTINF:-1 tvg-name="es: extremadura tv" tvg-logo="https://docdog.top/logo/countries/spain/canal-extremadura-es.png" group-title="SPAIN",ES: EXTREMADURA TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5609.ts
+#EXTINF:-1 tvg-name="es: fox" tvg-logo="https://docdog.top/logo/countries/spain/fox-es.png" group-title="SPAIN",ES: FOX
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5612.ts
+#EXTINF:-1 tvg-name="es: fox life" tvg-logo="https://docdog.top/logo/countries/spain/fox-life-es.png" group-title="SPAIN",ES: FOX LIFE
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5613.ts
+#EXTINF:-1 tvg-name="es: galicia tv" tvg-logo="https://docdog.top/logo/countries/spain/galicia-es.png" group-title="SPAIN",ES: GALICIA TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5616.ts
+#EXTINF:-1 tvg-name="es: gol tv" tvg-logo="https://docdog.top/logo/countries/spain/gol-es.png" group-title="SPAIN SPORT",ES: GOL TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5617.ts
+#EXTINF:-1 tvg-name="es: historia" tvg-logo="https://docdog.top/logo/countries/spain/historia-es.png" group-title="SPAIN",ES: HISTORIA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5618.ts
+#EXTINF:-1 tvg-name="es: iberalia tv" tvg-logo="https://docdog.top/logo/countries/spain/iberalia-tv-es.png" group-title="SPAIN",ES: IBERALIA TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5621.ts
+#EXTINF:-1 tvg-name="es: m+ #vamos" tvg-logo="https://docdog.top/logo/countries/spain/M_Vamos.png" group-title="SPAIN SPORT",ES: M+ #VAMOS
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5630.ts
+#EXTINF:-1 tvg-name="es: m+ accion" tvg-logo="https://docdog.top/logo/countries/spain/movistar-accion-es.png" group-title="SPAIN",ES: M+ ACCION
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5632.ts
+#EXTINF:-1 tvg-name="es: m+ comedia" tvg-logo="https://docdog.top/logo/countries/spain/movistar-comedia-es.png" group-title="SPAIN",ES: M+ COMEDIA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5636.ts
+#EXTINF:-1 tvg-name="es: m+ cine espaãnol" tvg-logo="https://docdog.top/logo/countries/spain/movistar-cine-espanol-es.png" group-title="SPAIN",ES: M+ CINE ESPAÃNOL
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5633.ts
+#EXTINF:-1 tvg-name="es: m+ clasicos" tvg-logo="https://docdog.top/logo/countries/spain/M_Clasicos.png" group-title="SPAIN",ES: M+ CLASICOS
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5634.ts
+#EXTINF:-1 tvg-name="es: m+ drama" tvg-logo="https://docdog.top/logo/countries/spain/movistar-drama-es.png" group-title="SPAIN",ES: M+ DRAMA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5644.ts
+#EXTINF:-1 tvg-name="es: m+ estrenos" tvg-logo="https://docdog.top/logo/countries/spain/M_Estrenos.png" group-title="SPAIN",ES: M+ ESTRENOS
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5645.ts
+#EXTINF:-1 tvg-name="es: m+ estrenos 2" tvg-logo="https://docdog.top/logo/countries/spain/M_Estrenos2.png" group-title="SPAIN",ES: M+ ESTRENOS 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5646.ts
+#EXTINF:-1 tvg-name="es: m+ series" tvg-logo="https://docdog.top/logo/countries/spain/movistar-series-es.png" group-title="SPAIN",ES: M+ SERIES
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5675.ts
+#EXTINF:-1 tvg-name="es: m+ series 2" tvg-logo="https://docdog.top/logo/countries/spain/M_Series_2.png" group-title="SPAIN",ES: M+ SERIES 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5673.ts
+#EXTINF:-1 tvg-name="es: hollywood" tvg-logo="https://docdog.top/logo/countries/spain/canal-hollywood-es.png" group-title="SPAIN",ES: HOLLYWOOD
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5619.ts
+#EXTINF:-1 tvg-name="es: paramount channel" tvg-logo="https://docdog.top/logo/countries/spain/paramount-network-es.png" group-title="SPAIN",ES: PARAMOUNT CHANNEL
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5727.ts
+#EXTINF:-1 tvg-name="es: somos" tvg-logo="https://docdog.top/logo/countries/spain/somos-es.png" group-title="SPAIN",ES: SOMOS
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5730.ts
+#EXTINF:-1 tvg-name="es: tnt" tvg-logo="https://docdog.top/logo/countries/spain/tnt-es.png" group-title="SPAIN",ES: TNT
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5739.ts
+#EXTINF:-1 tvg-name="es: tcm" tvg-logo="https://docdog.top/logo/countries/spain/tcm-es.png" group-title="SPAIN",ES: TCM
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5733.ts
+#EXTINF:-1 tvg-name="es: movistar alquiler 1 (multiaudio)" tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 1 (MULTIAUDIO)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5690.ts
+#EXTINF:-1 tvg-name="es: movistar alquiler 2 (multiaudio)" tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 2 (MULTIAUDIO)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5691.ts
+#EXTINF:-1 tvg-name="es: movistar alquiler 3 (multiaudio)" tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 3 (MULTIAUDIO)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5692.ts
+#EXTINF:-1 tvg-name="es: movistar alquiler 4 (multiaudio)" tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 4 (MULTIAUDIO)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5693.ts
+#EXTINF:-1 tvg-name="es: movistar alquiler 5 (multiaudio)" tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 5 (MULTIAUDIO)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5694.ts
+#EXTINF:-1 tvg-name="es: movistar alquiler 6 (multiaudio)" tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 6 (MULTIAUDIO)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5695.ts
+#EXTINF:-1 tvg-name="es: movistar alquiler 7 (multiaudio)" tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 7 (MULTIAUDIO)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5696.ts
+#EXTINF:-1 tvg-name="es: movistar alquiler 8 (multiaudio)" tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 8 (MULTIAUDIO)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5697.ts
+#EXTINF:-1 tvg-name="es: movistar alquiler 9 (multiaudio)" tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 9 (MULTIAUDIO)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5698.ts
+#EXTINF:-1 tvg-name="es: movistar alquiler 10 (multiaudio)" tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 10 (MULTIAUDIO)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5699.ts
+#EXTINF:-1 tvg-name="es: movistar alquiler 11 (multiaudio)" tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 11 (MULTIAUDIO)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5764.ts
+#EXTINF:-1 tvg-name="es: movistar alquiler 12 (multiaudio)" tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 12 (MULTIAUDIO)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5765.ts
+#EXTINF:-1 tvg-name="es: movistar alquiler 18 (multiaudio)" tvg-logo="https://docdog.top/logo/countries/spain/Alquiler.png" group-title="SPAIN",ES: MOVISTAR ALQUILER 18 (MULTIAUDIO)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5771.ts
+#EXTINF:-1 tvg-name="es: netflix action" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Action
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29311.ts
+#EXTINF:-1 tvg-name="es: netflix action 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Action 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29312.ts
+#EXTINF:-1 tvg-name="es: netflix box office" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Box Office
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29313.ts
+#EXTINF:-1 tvg-name="es: netflix box office 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Box Office 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29314.ts
+#EXTINF:-1 tvg-name="es: netflix comedy" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Comedy
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29315.ts
+#EXTINF:-1 tvg-name="es: netflix comedy 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Comedy 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29316.ts
+#EXTINF:-1 tvg-name="es: netflix discovery" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Discovery
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29317.ts
+#EXTINF:-1 tvg-name="es: netflix drama" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Drama
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29318.ts
+#EXTINF:-1 tvg-name="es: netflix horror" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Horror
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29319.ts
+#EXTINF:-1 tvg-name="es: netflix horror 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Horror 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29320.ts
+#EXTINF:-1 tvg-name="es: netflix kids" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Kids
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29321.ts
+#EXTINF:-1 tvg-name="es: netflix kids 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Kids 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29322.ts
+#EXTINF:-1 tvg-name="es: netflix movies" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Movies
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29323.ts
+#EXTINF:-1 tvg-name="es: netflix movies 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Movies 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29324.ts
+#EXTINF:-1 tvg-name="es: netflix thriller" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Thriller
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29325.ts
+#EXTINF:-1 tvg-name="es: netflix thriller 2" tvg-logo="https://docdog.top/logo/countries/spain/Netflix.png" group-title="SPAIN",ES: Netflix Thriller 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29326.ts
+#EXTINF:-1 tvg-name="es: taquilla 1" tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_1.png" group-title="SPAIN",ES: TAQUILLA 1
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29327.ts
+#EXTINF:-1 tvg-name="es: taquilla 2" tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_2.png" group-title="SPAIN",ES: TAQUILLA 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29328.ts
+#EXTINF:-1 tvg-name="es: taquilla 3" tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_3.png" group-title="SPAIN",ES: TAQUILLA 3
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29329.ts
+#EXTINF:-1 tvg-name="es: taquilla 4" tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_4.png" group-title="SPAIN",ES: TAQUILLA 4
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29330.ts
+#EXTINF:-1 tvg-name="es: taquilla 5" tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_5.png" group-title="SPAIN",ES: TAQUILLA 5
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29331.ts
+#EXTINF:-1 tvg-name="es: taquilla 6" tvg-logo="https://docdog.top/logo/countries/spain/TAQUILLA_5.png" group-title="SPAIN",ES: TAQUILLA 6
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29332.ts
+#EXTINF:-1 tvg-name="es: mega" tvg-logo="https://docdog.top/logo/countries/spain/mega-es.png" group-title="SPAIN",ES: MEGA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5688.ts
+#EXTINF:-1 tvg-name="es: movistar cine doc &amp; roll" tvg-logo="https://docdog.top/logo/countries/spain/M_cine_doc_roll.png" group-title="SPAIN",ES: MOVISTAR CINE DOC &AMP; ROLL
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5700.ts
+#EXTINF:-1 tvg-name="es: classica" tvg-logo="https://docdog.top/logo/countries/spain/Classica.png" group-title="SPAIN",ES: CLASSICA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5545.ts
+#EXTINF:-1 tvg-name="es: mezzo live" tvg-logo="https://docdog.top/logo/countries/spain/mezzo-live-hd-es.png" group-title="SPAIN",ES: MEZZO LIVE
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5689.ts
+#EXTINF:-1 tvg-name="es: m+ fest" tvg-logo="https://docdog.top/logo/countries/spain/M_Fest.png" group-title="SPAIN",ES: M+ FEST
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5648.ts
+#EXTINF:-1 tvg-name="es: mtv 00s" tvg-logo="https://docdog.top/logo/countries/spain/MTV_00s.png" group-title="SPAIN",ES: MTV 00s
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25941.ts
+#EXTINF:-1 tvg-name="es: mtv espana" tvg-logo="https://docdog.top/logo/countries/spain/mtv-es.png" group-title="SPAIN",ES: MTV ESPANA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5712.ts
+#EXTINF:-1 tvg-name="es: vh1" tvg-logo="https://docdog.top/logo/countries/spain/vh1.png" group-title="SPAIN",ES: VH1
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5749.ts
+#EXTINF:-1 tvg-name="es: multi deporte" tvg-logo="https://docdog.top/logo/countries/spain/movistar-multideporte-es.png" group-title="SPAIN",ES: MULTI DEPORTE
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5713.ts
+#EXTINF:-1 tvg-name="es: nat geo" tvg-logo="https://docdog.top/logo/countries/spain/national-geographic-es.png" group-title="SPAIN",ES: NAT GEO
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5714.ts
+#EXTINF:-1 tvg-name="es: nat geo wild" tvg-logo="https://docdog.top/logo/countries/spain/national-geographic-wild-es.png" group-title="SPAIN",ES: NAT GEO WILD
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5715.ts
+#EXTINF:-1 tvg-name="es: neox" tvg-logo="https://docdog.top/logo/countries/spain/neox-es.png" group-title="SPAIN",ES: NEOX
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5718.ts
+#EXTINF:-1 tvg-name="es: non stop people" tvg-logo="https://docdog.top/logo/countries/spain/non_stop_people.png" group-title="SPAIN",ES: NON STOP PEOPLE
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5722.ts
+#EXTINF:-1 tvg-name="es: odisea" tvg-logo="https://docdog.top/logo/countries/spain/odisea-es.png" group-title="SPAIN",ES: ODISEA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5724.ts
+#EXTINF:-1 tvg-name="es: orbe 21" tvg-logo="https://docdog.top/logo/countries/spain/orbe21.png" group-title="SPAIN",ES: ORBE 21
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5725.ts
+#EXTINF:-1 tvg-name="es: canal panda" tvg-logo="https://docdog.top/logo/countries/spain/canal-panda-es.png" group-title="SPAIN",ES: CANAL PANDA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5726.ts
+#EXTINF:-1 tvg-name="es: popular tv" tvg-logo="https://docdog.top/logo/countries/spain/popular-tv-cantabria-es.png" group-title="SPAIN",ES: POPULAR TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5728.ts
+#EXTINF:-1 tvg-name="es: sundance" tvg-logo="https://docdog.top/logo/countries/spain/sundance-tv-es.png" group-title="SPAIN",ES: SUNDANCE
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5731.ts
+#EXTINF:-1 tvg-name="es: syfy" tvg-logo="https://docdog.top/logo/countries/spain/syfy-es.png" group-title="SPAIN",ES: SYFY
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5732.ts
+#EXTINF:-1 tvg-name="es: tele madrid" tvg-logo="https://docdog.top/logo/countries/spain/tele-madrid-es.png" group-title="SPAIN",ES: TELE MADRID
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5736.ts
+#EXTINF:-1 tvg-name="es: ten" tvg-logo="https://docdog.top/logo/countries/spain/ten-es.png" group-title="SPAIN",ES: TEN
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5738.ts
+#EXTINF:-1 tvg-name="es: toros" tvg-logo="https://docdog.top/logo/countries/spain/toros-es.png" group-title="SPAIN",ES: TOROS
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5740.ts
+#EXTINF:-1 tvg-name="es: tv galicia" tvg-logo="https://docdog.top/logo/countries/spain/galicia-es.png" group-title="SPAIN",ES: TV GALICIA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5742.ts
+#EXTINF:-1 tvg-name="es: tv3 cat" tvg-logo="https://docdog.top/logo/countries/spain/tv3-cat-es.png" group-title="SPAIN",ES: TV3 CAT
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5743.ts
+#EXTINF:-1 tvg-name="es: tve internacional" tvg-logo="https://docdog.top/logo/countries/spain/tveinternacionalamericai.png" group-title="SPAIN",ES: TVE INTERNACIONAL
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5745.ts
+#EXTINF:-1 tvg-name="es: viajar" tvg-logo="https://docdog.top/logo/countries/spain/viajar-es.png" group-title="SPAIN",ES: VIAJAR
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5750.ts
+#EXTINF:-1 tvg-name="es: xtrm" tvg-logo="https://docdog.top/logo/countries/spain/xtrm-es.png" group-title="SPAIN",ES: XTRM
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5751.ts
+#EXTINF:-1 tvg-name="es: etb 2" tvg-logo="https://docdog.top/logo/countries/spain/etb2-es.png" group-title="SPAIN",ES: ETB 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5759.ts
+#EXTINF:-1 tvg-name="es: etb 1" tvg-logo="https://docdog.top/logo/countries/spain/etb1-es.png" group-title="SPAIN",ES: ETB 1
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5760.ts
+#EXTINF:-1 tvg-name="es: ppv 1 (live event)" tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="SPAIN",ES: PPV 1 (LIVE EVENT)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/24103.ts
+#EXTINF:-1 tvg-name="es: ppv 2 (live event)" tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="SPAIN",ES: PPV 2 (LIVE EVENT)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/24107.ts
+#EXTINF:-1 tvg-name="es: ppv 3 (live event)" tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="SPAIN",ES: PPV 3 (LIVE EVENT)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/24104.ts
+#EXTINF:-1 tvg-name="es: ppv 4 (live event)" tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="SPAIN",ES: PPV 4 (LIVE EVENT)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/24105.ts
+#EXTINF:-1 tvg-name="es: ppv 5 (live event)" tvg-logo="https://docdog.top/logo/countries/spain/ppvevents.png" group-title="SPAIN",ES: PPV 5 (LIVE EVENT)
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/24106.ts
+#EXTINF:-1 tvg-name="es: cnn" tvg-logo="https://docdog.top/logo/countries/spain/CNN.png" group-title="SPAIN",ES: CNN
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25923.ts
+#EXTINF:-1 tvg-name="es: 324" tvg-logo="https://docdog.top/logo/countries/spain/324.png" group-title="SPAIN",ES: 324
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25924.ts
+#EXTINF:-1 tvg-name="es: à punt" tvg-logo="https://docdog.top/logo/countries/spain/A_Punt.png" group-title="SPAIN",ES: À Punt
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25925.ts
+#EXTINF:-1 tvg-name="es: amc break" tvg-logo="https://docdog.top/logo/countries/spain/AMC_Break.png" group-title="SPAIN",ES: AMC Break
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25926.ts
+#EXTINF:-1 tvg-name="es: amc crime" tvg-logo="https://docdog.top/logo/countries/spain/AMC_Crime.png" group-title="SPAIN",ES: AMC Crime
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25927.ts
+#EXTINF:-1 tvg-name="es: betevé" tvg-logo="https://docdog.top/logo/countries/spain/Beteve.png" group-title="SPAIN",ES: Betevé
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25928.ts
+#EXTINF:-1 tvg-name="es: castilla la mancha media" tvg-logo="https://docdog.top/logo/countries/spain/Castilla_la_Mancha_TV.png" group-title="SPAIN",ES: Castilla La Mancha Media
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25929.ts
+#EXTINF:-1 tvg-name="es: dark" tvg-logo="https://docdog.top/logo/countries/spain/DARK.png" group-title="SPAIN",ES: DARK
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25930.ts
+#EXTINF:-1 tvg-name="es: el toro tv" tvg-logo="https://docdog.top/logo/countries/spain/El_Toro_TV.png" group-title="SPAIN",ES: El Toro TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25932.ts
+#EXTINF:-1 tvg-name="es: esport 3 cat" tvg-logo="https://docdog.top/logo/countries/spain/Esport_3.png" group-title="SPAIN",ES: Esport 3 CAT
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25933.ts
+#EXTINF:-1 tvg-name="es: etb basque" tvg-logo="https://docdog.top/logo/countries/spain/ETB_Basque.png" group-title="SPAIN",ES: ETB Basque
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25934.ts
+#EXTINF:-1 tvg-name="es: euronews" tvg-logo="https://docdog.top/logo/countries/spain/Euronews.png" group-title="SPAIN",ES: Euronews
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25935.ts
+#EXTINF:-1 tvg-name="es: la 7" tvg-logo="https://docdog.top/logo/countries/spain/La_7.png" group-title="SPAIN",ES: La 7
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25937.ts
+#EXTINF:-1 tvg-name="es: la resistencia" tvg-logo="https://docdog.top/logo/countries/spain/La_Resistencia.png" group-title="SPAIN",ES: La Resistencia
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25938.ts
+#EXTINF:-1 tvg-name="es: la otra" tvg-logo="https://docdog.top/logo/countries/spain/La_Otra.png" group-title="SPAIN",ES: La Otra
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25939.ts
+#EXTINF:-1 tvg-name="es: m+ cracks" tvg-logo="https://docdog.top/logo/countries/spain/M_Cracks.png" group-title="SPAIN",ES: M+ Cracks
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25940.ts
+#EXTINF:-1 tvg-name="es: sol music" tvg-logo="https://docdog.top/logo/countries/spain/Sol_Musica.png" group-title="SPAIN",ES: Sol Music
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25942.ts
+#EXTINF:-1 tvg-name="es: telesur" tvg-logo="https://docdog.top/logo/countries/spain/Telesur.png" group-title="SPAIN",ES: Telesur
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25943.ts
+#EXTINF:-1 tvg-name="es: tvg musigal" tvg-logo="https://docdog.top/logo/countries/spain/TVG_MUSIGAL.png" group-title="SPAIN",ES: TVG Musigal
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25944.ts
+#EXTINF:-1 tvg-name="es: tvg momentos g" tvg-logo="https://docdog.top/logo/countries/spain/TVG_MOMENTOS_G.png" group-title="SPAIN",ES: TVG Momentos G
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25945.ts
+#EXTINF:-1 tvg-name="es: tvg infantil" tvg-logo="https://docdog.top/logo/countries/spain/TVG_Infantil.png" group-title="SPAIN",ES: TVG Infantil
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25946.ts
+#EXTINF:-1 tvg-name="es: tvg eventos 1" tvg-logo="https://docdog.top/logo/countries/spain/TVG_EVENTOS_G.png" group-title="SPAIN",ES: TVG Eventos 1
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25948.ts
+#EXTINF:-1 tvg-name="es: tvg eventos 2" tvg-logo="https://docdog.top/logo/countries/spain/TVG_EVENTOS_G.png" group-title="SPAIN",ES: TVG Eventos 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25947.ts
+#EXTINF:-1 tvg-name="es: tvg cultura" tvg-logo="https://docdog.top/logo/countries/spain/TVG_Cultura.png" group-title="SPAIN",ES: TVG Cultura
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25949.ts
+#EXTINF:-1 tvg-name="es: tvg américa" tvg-logo="https://docdog.top/logo/countries/spain/TVG_america.png" group-title="SPAIN",ES: TVG América
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25950.ts
+#EXTINF:-1 tvg-name="es: u-beat" tvg-logo="https://docdog.top/logo/countries/spain/Ubeat.png" group-title="SPAIN",ES: U-Beat
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25951.ts
+#EXTINF:-1 tvg-name="es: atreseries" tvg-logo="https://docdog.top/logo/countries/spain/Atreseries.png" group-title="SPAIN",ES: Atreseries
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25952.ts
+#EXTINF:-1 tvg-name="es: m+ laliga smartbank tv m2" tvg-logo="https://docdog.top/logo/countries/spain/LaLiga_SmartbankTV_M2.png" group-title="SPAIN SPORT",ES: M+ LaLiga Smartbank TV M2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25953.ts
+#EXTINF:-1 tvg-name="es: m+ laliga smartbank tv m3" tvg-logo="https://docdog.top/logo/countries/spain/LaLiga_SmartbankTV_M3.png" group-title="SPAIN SPORT",ES: M+ LaLiga Smartbank TV M3
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/25954.ts
+#EXTINF:-1 tvg-name="es: 25 tv" tvg-logo="https://docdog.top/logo/countries/spain/25_TV.png" group-title="SPAIN",ES: 25 TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29307.ts
+#EXTINF:-1 tvg-name="es: bailen tv" tvg-logo="https://docdog.top/logo/countries/spain/Bailen_TV.png" group-title="SPAIN",ES: Bailen TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29308.ts
+#EXTINF:-1 tvg-name="es: garage tv" tvg-logo="https://docdog.top/logo/countries/spain/Garage_TV.png" group-title="SPAIN",ES: Garage TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29309.ts
+#EXTINF:-1 tvg-name="es: telesur madrid" tvg-logo="https://docdog.top/logo/countries/spain/Telesur_Madrid.png" group-title="SPAIN",ES: Telesur Madrid
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29310.ts
+#EXTINF:-1 tvg-name="es: canal sur 2" tvg-logo="https://docdog.top/logo/countries/spain/CANAL_SUR_2.png" group-title="SPAIN",ES: CANAL SUR 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29334.ts
+#EXTINF:-1 tvg-name="es: vision 6" tvg-logo="https://docdog.top/logo/countries/spain/vision6.png" group-title="SPAIN",ES: VISION 6
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29335.ts
+#EXTINF:-1 tvg-name="es: tele onuba tv" tvg-logo="https://docdog.top/logo/countries/spain/TELE_ONUBA_TV.png" group-title="SPAIN",ES: TELE ONUBA TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29336.ts
+#EXTINF:-1 tvg-name="es: tele bilbao" tvg-logo="https://docdog.top/logo/countries/spain/TELE_BILBAO.png" group-title="SPAIN",ES: TELE BILBAO
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29337.ts
+#EXTINF:-1 tvg-name="es: star tve" tvg-logo="https://docdog.top/logo/countries/spain/STAR_TVE.png" group-title="SPAIN",ES: STAR TVE
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29338.ts
+#EXTINF:-1 tvg-name="es: sofy tv" tvg-logo="https://docdog.top/logo/countries/spain/SOFY_TV.png" group-title="SPAIN",ES: SOFY TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29339.ts
+#EXTINF:-1 tvg-name="es: rakuten 1" tvg-logo="https://docdog.top/logo/countries/spain/RAKUTEN.png" group-title="SPAIN",ES: RAKUTEN 1
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29343.ts
+#EXTINF:-1 tvg-name="es: rakuten 2" tvg-logo="https://docdog.top/logo/countries/spain/RAKUTEN.png" group-title="SPAIN",ES: RAKUTEN 2
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29342.ts
+#EXTINF:-1 tvg-name="es: rakuten 3" tvg-logo="https://docdog.top/logo/countries/spain/RAKUTEN_3.png" group-title="SPAIN",ES: RAKUTEN 3
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29341.ts
+#EXTINF:-1 tvg-name="es: pequeradio tv" tvg-logo="https://docdog.top/logo/countries/spain/PEQUERADIO_TV.png" group-title="SPAIN",ES: PEQUERADIO TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29344.ts
+#EXTINF:-1 tvg-name="es: ptv sevilla" tvg-logo="https://docdog.top/logo/countries/spain/PTV_SEVILLA.png" group-title="SPAIN",ES: PTV SEVILLA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29345.ts
+#EXTINF:-1 tvg-name="es: ptv málaga" tvg-logo="https://docdog.top/logo/countries/spain/PTV_MALAGA.png" group-title="SPAIN",ES: PTV MÁLAGA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29346.ts
+#EXTINF:-1 tvg-name="es: ptv granada" tvg-logo="https://docdog.top/logo/countries/spain/PTV_GRANADA.png" group-title="SPAIN",ES: PTV GRANADA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29347.ts
+#EXTINF:-1 tvg-name="es: onda algeciras tv" tvg-logo="https://docdog.top/logo/countries/spain/Onda_Algeciras_TV.png" group-title="SPAIN",ES: ONDA ALGECIRAS TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29348.ts
+#EXTINF:-1 tvg-name="es: nortevision" tvg-logo="https://docdog.top/logo/countries/spain/NORTEVISION.png" group-title="SPAIN",ES: NORTEVISION
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29349.ts
+#EXTINF:-1 tvg-name="es: mytime movie network" tvg-logo="https://docdog.top/logo/countries/spain/MYTIME_MOVIE_NETWORK.png" group-title="SPAIN",ES: MYTIME MOVIE NETWORK
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29350.ts
+#EXTINF:-1 tvg-name="es: molahits tv" tvg-logo="https://docdog.top/logo/countries/spain/MOLAHITS_TV.png" group-title="SPAIN",ES: MOLAHITS TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29351.ts
+#EXTINF:-1 tvg-name="es: interalmería" tvg-logo="https://docdog.top/logo/countries/spain/INTERALMERIA.png" group-title="SPAIN",ES: INTERALMERÍA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29352.ts
+#EXTINF:-1 tvg-name="es: imás tv" tvg-logo="https://docdog.top/logo/countries/spain/IMAS_TV.png" group-title="SPAIN",ES: IMÁS TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29353.ts
+#EXTINF:-1 tvg-name="es: hispan tv" tvg-logo="https://docdog.top/logo/countries/spain/HISPAN_TV.png" group-title="SPAIN",ES: HISPAN TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29354.ts
+#EXTINF:-1 tvg-name="es: dw en español" tvg-logo="https://docdog.top/logo/countries/spain/DW_EN_ESPANOL.png" group-title="SPAIN",ES: DW EN ESPAÑOL
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29356.ts
+#EXTINF:-1 tvg-name="es: comedy dynamics" tvg-logo="https://docdog.top/logo/countries/spain/COMEDY_DYNAMICS.png" group-title="SPAIN",ES: COMEDY DYNAMICS
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29357.ts
+#EXTINF:-1 tvg-name="es: cazavisión" tvg-logo="https://docdog.top/logo/countries/spain/CAZAVISION.png" group-title="SPAIN",ES: CAZAVISIÓN
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29358.ts
+#EXTINF:-1 tvg-name="es: canal de las estrellas" tvg-logo="https://docdog.top/logo/countries/spain/CANAL_DE_LAS_ESTRELLAS.png" group-title="SPAIN",ES: CANAL DE LAS ESTRELLAS
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29359.ts
+#EXTINF:-1 tvg-name="es: 7 tv region murcia" tvg-logo="https://docdog.top/logo/countries/spain/7-television-region-de-murcia-es.png" group-title="SPAIN",ES: 7 TV REGION MURCIA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/5548.ts
+#EXTINF:-1 tvg-name="es: canal malaga" tvg-logo="https://docdog.top/logo/countries/spain/canalmalaga.png" group-title="SPAIN",ES: CANAL MALAGA
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29661.ts
+#EXTINF:-1 tvg-name="es: bon dia tv" tvg-logo="https://docdog.top/logo/countries/spain/bon_dia_tv.png" group-title="SPAIN",ES: BON DIA TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29663.ts
+#EXTINF:-1 tvg-name="es: alcarria tv" tvg-logo="https://docdog.top/logo/countries/spain/alcarria_tv.png" group-title="SPAIN",ES: ALCARRIA TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29664.ts
+#EXTINF:-1 tvg-name="es: 091 alerta policia 24/7" tvg-logo="https://docdog.top/logo/countries/spain/ALERTA_POLICIA.png" group-title="SPAIN",ES: 091 ALERTA POLICIA 24/7
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29665.ts
+#EXTINF:-1 tvg-name="es: canal diocesano toledo" tvg-logo="https://docdog.top/logo/countries/spain/canal_diocesano.png" group-title="SPAIN",ES: CANAL DIOCESANO TOLEDO
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29666.ts
+#EXTINF:-1 tvg-name="es: canal costa tv" tvg-logo="https://docdog.top/logo/countries/spain/costa_tv.png" group-title="SPAIN",ES: CANAL COSTA TV
+http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29662.ts
