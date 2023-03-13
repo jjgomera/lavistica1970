@@ -248,8 +248,8 @@ http://127.0.0.1:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ELLAS" tvg-logo="https://i.imgur.com/OJaEosP.png" ,#Ellas 720
 http://127.0.0.1:6878/ace/getstream?id=71e9e4c66a271ff58beb76792e01eeb6a1dde746
-
-
+#EXTINF:-1 group-title="Otro contenido" tvg-id="M+ ESTRENOS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" ,M+ ESTRENOS 2 HD
+http://127.0.0.1:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
 
 #EXTINF:-1 tvg-ID="LA 1 HD" tvg-name="LA 1" tvg-logo="http://daleplaypro.com:8080/images/1186f39f3c2ff7dcf5600c76cddb6a47.png" group-title="(TV) ESPAÑA",LA 1
 http://daleplaypro.com:8080/J4757g67/G4757j67/110038
