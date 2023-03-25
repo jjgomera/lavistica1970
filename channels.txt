@@ -116,18 +116,8 @@ http://127.0.0.1:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
 http://127.0.0.1:6878/ace/getstream?id=5c0a0e52f85740264284d773cf6ab2db582e8ed5
 #EXTINF:-1 group-title="CARRERAS F1" tvg-id="CARRERAS F1" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" ,F-1-Carrera: 19 de marzo - Gran Premio de Arabia Saudita 
 http://127.0.0.1:6878/ace/getstream?id=6ca01b3e13256f911afb819dc86e72a112c8985d
-#EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,MotoGP.Race.Malasia.2022.1080p.Spa
-http://127.0.0.1:6878/ace/getstream?id=44d1653348e793c6ec1c890d66355b37f854203f
-#EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,Moto2.Race.Malasia.2022.1080p.Spa
-http://127.0.0.1:6878/ace/getstream?id=1621be19183b3b5e059bb5e615a00d53337fc5f1
-#EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,Moto3.Race.Malasia.2022.1080p.Spa
-http://127.0.0.1:6878/ace/getstream?id=372701ca118260b635e5bd40ab39d477b3062708
-#EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,MotoGP.Race.Valencia.2022.1080p.Spa
-http://127.0.0.1:6878/ace/getstream?id=27b181c4721ffaf2823c9806c8763e4af411297b
-#EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,Moto2.Race.Valencia.2022.1080p.Spa
-http://127.0.0.1:6878/ace/getstream?id=904b8ef770c6b8bd05773908bb1fd481740a531a
-#EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,Moto3.Race.Valencia.2022.1080p.Spa
-http://127.0.0.1:6878/ace/getstream?id=b11739f0ae061f76adfe750eb8b423b940ed722b
+#EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,MotoGP.Race Sprin PORTUGAL.2023.Spa
+http://127.0.0.1:6878/ace/getstream?id=a4d9e5c15582c2ef3206b34cc46567c1cb43344c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,4k audio español
 http://127.0.0.1:6878/ace/getstream?id=09f10eea5796d8abb05e3042cb577511c2e304dc
 #EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,1080 audio español
