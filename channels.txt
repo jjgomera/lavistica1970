@@ -123,7 +123,7 @@ http://127.0.0.1:6878/ace/getstream?id=e0efca53bbb9b670b96e95797a61660532b615c3
 #EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,Moto2.Race PORTUGAL.2023.Spa
 http://127.0.0.1:6878/ace/getstream?id=0f408ea4b6ddc2aff4f2ccd55689ba6c558244d8
 #EXTINF:-1 group-title="CARRERAS MOTOS" tvg-id="CARRERAS MOTOS" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" ,MotoGP.Race PORTUGAL.2023.Spa
-http://127.0.0.1:6878/ace/getstream?id=6a5286da1bb628b171928dc903e8e38467708d94
+http://127.0.0.1:6878/ace/getstream?id=b42bbd008c2379b35d239ac9bb95c8657b95a538
 #EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,4k audio español
 http://127.0.0.1:6878/ace/getstream?id=09f10eea5796d8abb05e3042cb577511c2e304dc
 #EXTINF:-1 group-title="Otro contenido" tvg-id="Otro contenido" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,1080 audio español
