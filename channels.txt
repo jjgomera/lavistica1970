@@ -197,6 +197,9 @@ http://127.0.0.1:6878/ace/getstream?id=3f1c6cf3f8608f9b6a3ac288571d7000af6387c9
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto2.Race ARGENTINA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto2.Race ARGENTINA.2023.Spa
 http://127.0.0.1:6878/ace/getstream?id=0aefd372bcb3b1926b046861503d1b25ae039ceb
 
+#EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race ARGENTINA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race ARGENTINA.2023.Spa
+http://127.0.0.1:6878/ace/getstream?id=2aba72224c6d5b88f1b8c4907f22cfb277987b44
+
 #EXTINF:-1 tvg-ID="Otro contenido" tvg-name="4k audio español" tvg-logo="https://i.imgur.com/U4w7Bgy.png" group-title="(ACE) Otro contenido",4k audio español
 http://127.0.0.1:6878/ace/getstream?id=09f10eea5796d8abb05e3042cb577511c2e304dc
 
