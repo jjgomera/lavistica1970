@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+
 #EXTINF:-1 tvg-ID="M+ LaLiga HD" tvg-name="M. LaLiga 1080 MultiAudio" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="(ACE) M+ LaLiga",M. LaLiga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
 
@@ -3254,4 +3255,61 @@ http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29666.ts
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="es: canal costa tv" tvg-logo="https://docdog.top/logo/countries/spain/costa_tv.png" group-title="(IPTV) SPAIN",ES: CANAL COSTA TV
 http://supercamp.cfd:8080/live/5151661182880681/7221661182880681/29662.ts
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Disney Channel " tvg-logo="" group-title="(IPTV) Spain 2",Disney Channel 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69324.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA 1" tvg-logo="" group-title="(IPTV) Spain 2",LA 1
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69297.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA 2 " tvg-logo="" group-title="(IPTV) Spain 2",LA 2 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69298.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Antena 3" tvg-logo="" group-title="(IPTV) Spain 2",Antena 3
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69299.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Cuatro " tvg-logo="" group-title="(IPTV) Spain 2",Cuatro 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69300.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Telecinco" tvg-logo="" group-title="(IPTV) Spain 2",Telecinco
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69301.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA Sexta" tvg-logo="" group-title="(IPTV) Spain 2",LA Sexta
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69302.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Aragon Tv" tvg-logo="" group-title="(IPTV) Spain 2",Aragon Tv
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69303.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Neox" tvg-logo="" group-title="(IPTV) Spain 2",Neox
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69304.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Nova " tvg-logo="" group-title="(IPTV) Spain 2",Nova 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69305.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Movistar Accion" tvg-logo="" group-title="(IPTV) Spain 2",Movistar Accion
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69306.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Movistar Comedia" tvg-logo="" group-title="(IPTV) Spain 2",Movistar Comedia
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69307.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Movistar Drama" tvg-logo="" group-title="(IPTV) Spain 2",Movistar Drama
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69309.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Movistar Series" tvg-logo="" group-title="(IPTV) Spain 2",Movistar Series
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69308.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Cale 13" tvg-logo="" group-title="(IPTV) Spain 2",Cale 13
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69310.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Hollywood" tvg-logo="" group-title="(IPTV) Spain 2",Hollywood
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69311.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Comedy Central" tvg-logo="" group-title="(IPTV) Spain 2",Comedy Central
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69312.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Syfy" tvg-logo="" group-title="(IPTV) Spain 2",Syfy
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69313.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="AXN " tvg-logo="" group-title="(IPTV) Spain 2",AXN 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69314.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="FOX " tvg-logo="" group-title="(IPTV) Spain 2",FOX 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69315.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="National Geographic " tvg-logo="" group-title="(IPTV) Spain 2",National Geographic 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69316.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="National Geographic Wild " tvg-logo="" group-title="(IPTV) Spain 2",National Geographic Wild 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69317.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Discovery " tvg-logo="" group-title="(IPTV) Spain 2",Discovery 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Caza Y Pesca" tvg-logo="" group-title="(IPTV) Spain 2",Caza Y Pesca
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Crimen + Investigacion" tvg-logo="" group-title="(IPTV) Spain 2",Crimen + Investigacion
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69323.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Boing" tvg-logo="" group-title="(IPTV) Spain 2",Boing
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69321.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Nick Jr " tvg-logo="" group-title="(IPTV) Spain 2",Nick Jr 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69320.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="Disney Junior  " tvg-logo="" group-title="(IPTV) Spain 2",Disney Junior  
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69322.ts
 
