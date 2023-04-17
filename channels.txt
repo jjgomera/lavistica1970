@@ -144,6 +144,16 @@ http://127.0.0.1:6878/ace/getstream?id=8d0554257731fcd1456f605156dda6e3c11d508a
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race USA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race USA.2023.Spa
 http://127.0.0.1:6878/ace/getstream?id=b7c23d607527b3ebf23951b857c8a942ba17e161
 
+#EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="St. Petersburg-5 de marzo" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) INYCAR 2023",St. Petersburg- 5 de marzo
+http://127.0.0.1:6878/ace/getstream?id=7c666ed08a2fdcce3cb99f1d7a6159c684feeddb
+
+#EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Texas (ovalo)-2 de abril" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) INYCAR 2023",Texas (ovalo)-2 de abril
+http://127.0.0.1:6878/ace/getstream?id=7f60c66b9a43755eac8620ca05613d1907a0edab
+
+#EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Long Beach-16 de abril" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) INYCAR 2023",Long Beach-16 de abril
+http://127.0.0.1:6878/ace/getstream?id=7f60c66b9a43755eac8620ca05613d1907a0edab
+
+
 #EXTINF:-1 tvg-ID="Otro contenido" tvg-name="4k audio espa?ol" tvg-logo="https://i.imgur.com/U4w7Bgy.png" group-title="(ACE) Otro contenido",4k audio espa?ol
 http://127.0.0.1:6878/ace/getstream?id=09f10eea5796d8abb05e3042cb577511c2e304dc
 #EXTINF:-1 tvg-ID="Otro contenido" tvg-name="1080 audio espa?ol" tvg-logo="https://i.imgur.com/U4w7Bgy.png" group-title="(ACE) Otro contenido",1080 audio espa?ol
