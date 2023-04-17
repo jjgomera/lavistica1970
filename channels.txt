@@ -151,7 +151,7 @@ http://127.0.0.1:6878/ace/getstream?id=7c666ed08a2fdcce3cb99f1d7a6159c684feeddb
 http://127.0.0.1:6878/ace/getstream?id=7f60c66b9a43755eac8620ca05613d1907a0edab
 
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="Long Beach-16 de abril" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",Long Beach-16 de abril
-http://127.0.0.1:6878/ace/getstream?id=7f60c66b9a43755eac8620ca05613d1907a0edab
+http://127.0.0.1:6878/ace/getstream?id=897ea5378553971a6cf0aeafd852609315a523f8
 
 
 #EXTINF:-1 tvg-ID="Otro contenido" tvg-name="4k audio espa?ol" tvg-logo="https://i.imgur.com/U4w7Bgy.png" group-title="(ACE) Otro contenido",4k audio espa?ol
