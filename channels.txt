@@ -116,6 +116,7 @@ http://127.0.0.1:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
 http://127.0.0.1:6878/ace/getstream?id=5c0a0e52f85740264284d773cf6ab2db582e8ed5
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 19 de marzo - Gran Premio de Arabia Saudita " tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 19 de marzo - Gran Premio de Arabia Saudita 
 http://127.0.0.1:6878/ace/getstream?id=6ca01b3e13256f911afb819dc86e72a112c8985d
+
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race Sprin PORTUGAL.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race Sprin PORTUGAL.2023.Spa
 http://127.0.0.1:6878/ace/getstream?id=a4d9e5c15582c2ef3206b34cc46567c1cb43344c
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto3.Race PORTUGAL.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto3.Race PORTUGAL.2023.Spa
@@ -136,6 +137,12 @@ http://127.0.0.1:6878/ace/getstream?id=65ed92012c162ff94d1059b2119bf443f28a272
 
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race Sprin USA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race Sprin USA.2023.Spa
 http://127.0.0.1:6878/ace/getstream?id=86ec54b7ac1b025bcfc0ca54b4213bc38de2150f
+#EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto3.Race USA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto3.Race USA.2023.Spa
+http://127.0.0.1:6878/ace/getstream?id=2ffa74e5f9ceaef62bb3b826fbb78468a0a5ea52
+#EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto2.Race USA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto2.Race USA.2023.Spa
+http://127.0.0.1:6878/ace/getstream?id=8d0554257731fcd1456f605156dda6e3c11d508a
+#EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race USA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race USA.2023.Spa
+http://127.0.0.1:6878/ace/getstream?id=b7c23d607527b3ebf23951b857c8a942ba17e161
 
 #EXTINF:-1 tvg-ID="Otro contenido" tvg-name="4k audio espa?ol" tvg-logo="https://i.imgur.com/U4w7Bgy.png" group-title="(ACE) Otro contenido",4k audio espa?ol
 http://127.0.0.1:6878/ace/getstream?id=09f10eea5796d8abb05e3042cb577511c2e304dc
