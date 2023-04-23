@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 #EXTINF:-1 tvg-ID="M+ LaLigaTV HD" tvg-name="M+ LaLigaTV 1080 multiaudio" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" group-title="(ACE) M+ LaLiga",M+ LaLigaTV 1080 multiaudio
 http://127.0.0.1:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
 
