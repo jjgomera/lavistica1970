@@ -896,6 +896,8 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/64622
 http://127.0.0.1:6878/ace/getstream?id=5c0a0e52f85740264284d773cf6ab2db582e8ed5
 #EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1-Carrera: 19 de marzo - Gran Premio de Arabia Saudita " tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1-Carrera: 19 de marzo - Gran Premio de Arabia Saudita 
 http://127.0.0.1:6878/ace/getstream?id=6ca01b3e13256f911afb819dc86e72a112c8985d
+#EXTINF:-1 tvg-ID="CARRERAS F1" tvg-name="F-1 Carrera Sprin: 29 de abril - Gran Premio de Azerbaiyan" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="(ACE) CARRERAS F1",F-1 Carrera Sprin: 29 de abril - Gran Premio de Azerbaiyan 
+http://127.0.0.1:6878/ace/getstream?id=29197791734d8efbf1ad141f2c8d8a4dc1ba70e1
 
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race Sprin PORTUGAL.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race Sprin PORTUGAL.2023.Spa
 http://127.0.0.1:6878/ace/getstream?id=a4d9e5c15582c2ef3206b34cc46567c1cb43344c
