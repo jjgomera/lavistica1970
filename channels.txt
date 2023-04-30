@@ -928,6 +928,14 @@ http://127.0.0.1:6878/ace/getstream?id=8d0554257731fcd1456f605156dda6e3c11d508a
 #EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race USA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race USA.2023.Spa
 http://127.0.0.1:6878/ace/getstream?id=b7c23d607527b3ebf23951b857c8a942ba17e161
 
+#EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="MotoGP.Race Sprin ESPAÑA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",MotoGP.Race Sprin ESPAÑA.2023.Spa
+http://127.0.0.1:6878/ace/getstream?id=fe1acea199522b5e8b4f24c025f39d6e4db1df94
+#EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto3.Race ESPAÑA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto3.Race ESPAÑA.2023.Spa
+http://127.0.0.1:6878/ace/getstream?id=e5d32f5272d9c8980d4c6462af2ef46deb6964ab
+#EXTINF:-1 tvg-ID="CARRERAS MOTOS" tvg-name="Moto2.Race ESPAÑA.2023.Spa" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-4.png" group-title="(ACE) CARRERAS MOTOS",Moto2.Race ESPAÑA.2023.Spa
+http://127.0.0.1:6878/ace/getstream?id=f675497a95e5b2838a6ea681431e7dd6e94f9433
+
+
 #EXTINF:-1 tvg-ID="INDYCAR 2023" tvg-name="St. Petersburg-5 de marzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_indyllc.png" group-title="(ACE) INYCAR 2023",St. Petersburg- 5 de marzo
 http://127.0.0.1:6878/ace/getstream?id=7c666ed08a2fdcce3cb99f1d7a6159c684feeddb
 
